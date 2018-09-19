@@ -17,7 +17,7 @@ Utilize statistical techniques to calculate z-scores and confidence intervals, p
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, August 28    | Intro to Data Science Process & Tools |
+|   1   |  Tuesday, August 28    | [Data Science Process & Tools] |
 |   2   | Thursday, August 30    | Data Manipulation & Visualization |
 |   3   |  Tuesday, September 4  | Data Cleaning & Descriptive Statistics |
 |   4   | Thursday, September 6  | Conditional Probability |
@@ -32,6 +32,7 @@ Utilize statistical techniques to calculate z-scores and confidence intervals, p
 |       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
 |  13   | Thursday, October 11   | Custom Project Presentations |
 
+[Data Science Process & Tools]: Lessons/DataScienceProcess.md
 
 ## Course Specifics
 
