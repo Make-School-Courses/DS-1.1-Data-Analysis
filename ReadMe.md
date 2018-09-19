@@ -2,11 +2,11 @@
 
 ## Course Description
 
-Data science is amazing. But in order to work in data science, we first need to build a strong foundation for the skills most important to data scientists: data analysis and data visualization. The goal of this course is to equip students with the requisite skills necessary to succeed when answering data-driven questions. These skills include:
-
-**Data Analysis:** Data by itself is useless, because it lacks context. Data scientists create value for companies by delivering insights from data through various data analysis techniques. A good scientist has a strong grounding in statistical techniques. In this course, we’ll focus on building our statistical literacy while strengthening our ability to provide cogent, data-driven analysis of data sets.
-
-**Data Visualization:** This is, perhaps, one of the most valuable skills a data scientist can have – the ability to communicate their findings in a way any stakeholder can understand. We'll build our data visualization skill set by visualizing multiple data sets to make non-obvious insights as clear as day.
+Learn the foundational skills of data science, including data collection, cleaning, analysis, and visualization with modern tools and libraries.
+Master the science and art of data exploration and visualization to tell stories with discoveries and persuade decision makers with data-driven insights.
+Collect a dataset, explore, analyze, and visualize it to discover trends, then present original insights.
+Gain a strong grounding in statistical concepts including measures of center and spread, distributions, sampling, and the central limit theorem.
+Utilize statistical techniques to calculate z-scores and confidence intervals, perform hypothesis tests, and identify outliers.
 
 
 ## Course Specifics
@@ -23,25 +23,15 @@ Data science is amazing. But in order to work in data science, we first need to 
 ## Prerequisites
 
 Students must pass the following course and demonstrate mastery of its competencies:
-- CS 1.3: Core Data Structures & Algorithms
-
-
-## Learning Objectives (Topics)
-
-This course will focus on the following topics:
-- Cleaning or "wrangling" poorly structured or "dirty" data sets
-- Data analysis and conditional probability
-- Data visualization and communication strategies
-- Descriptive statistics: measures of center, measures of spread
-- Statistical distributions, and the Central Limit Theorem
+- CS 1.2: How Data Structures Work
 
 
 ## Learning Outcomes (Competencies)
 
 By the end of this course, students will be able to:
 - Use industry-standard libraries (Pandas and NumPy) to clean and preprocess a dataset
-- Describe and implement a plan for finding and dealing with null values, outliers, and other problems in a data set
-- Explain the Central Limit Theorem, and why it is important in statistical learning
+- Describe and implement a plan for finding and dealing with null values, outliers, and other problems in a dataset
+- Explain the central limit theorem and why it is important in statistical analysis
 - Use statistical methods to calculate a z-score, then interpret and explain what it means
 
 
@@ -91,6 +81,16 @@ To pass this course, students must meet the following requirements:
 |  12   | Thursday, October 4    | Time Series Manipulation |
 |       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
 |  13   | Thursday, October 11   | Custom Project Presentations |
+
+
+## Make School Policies
+
+- [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)
+- [Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)
+- [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)
+- [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+- [Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
+- [Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
 
 
 ## Repository Setup
