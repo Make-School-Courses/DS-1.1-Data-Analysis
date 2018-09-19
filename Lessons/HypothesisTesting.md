@@ -17,10 +17,10 @@ By the end of this lesson, students will be able to:
 ### Activities
 - Start with why - to motivate topics (5 min)
 - Think, pair, share on topic 1 (10 min)
-- Lecture following [slides on topic 1 and 2](URL-here) (20 min)
+- Lecture following [z score and survival function](URL-here) (20 min)
 - I do, we do, you do on topic 2 (20 min)
 - Break (5 min)
-- Read and discuss [article on topic 3](URL-here) (20 min)
+- Read and discuss [Z and T test](http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python) (20 min)
 - Pair program on challenges listed below (30 min)
 
 ### Resources
@@ -36,7 +36,7 @@ By the end of this lesson, students will be able to:
 - Write a function the takes the mean of population, significant level and the samples as the    input argument then decide to reject or accept the null hypothesis
 - Compare their calculation with methods available in stats module in scipy
 - Write a function that determine whether use z-score or t-test in order to accept or reject null Hypothesis
-- Link to challenges in [Jupyter notebooks like this](../Notebooks/HypothesisTesting.ipynb)
+- Link to challenges in [Jupyter notebooks](../Notebooks/HypothesisTesting.ipynb)
 
 ### Stretch Challenges
-- Homework ()
+- Homework: [apply null hypothesis to these problems](https://docs.google.com/document/d/1ITryiXU_VoyBvtZY4deehk4PmlieSlF7rSNc8sBU3Sw/edit)
