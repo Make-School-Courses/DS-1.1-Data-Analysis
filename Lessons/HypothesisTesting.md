@@ -27,15 +27,16 @@ By the end of this lesson, students will be able to:
 - Link to additional articles and videos
 - Attribute authors and give descriptive titles
   -  Read this blog from iaingallagher [Z and T test in Python](http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python)
-  - Read Jason Brownlee's [article on dropout regularization](URL-here) and the intuition behind why it adds robustness to neural networks
-  - Reference the [Keras `Sequential` model documentation](URL-here) with examples of using dropout layers
-- Prioritize resources in order of learning utility
+  - Read Jeff Groff's [article on null hypothesis on Kaggle](https://www.kaggle.com/jgroff/unit-3-hypothesis-testing)
+  - More numerical examples on [Hypothesis Testing with the Z score](http://jukebox.esc13.net/untdeveloper/RM/Stats_Module_4/mobile_pages/Stats_Module_48.html)
+
+
 
 ### Challenges
 - Write a function the takes the mean of population, significant level and the samples as the    input argument then decide to reject or accept the null hypothesis
 - Compare their calculation with methods available in stats module in scipy
 - Write a function that determine whether use z-score or t-test in order to accept or reject null Hypothesis
-- Link to challenges in [Jupyter notebooks like this](../Notebooks/LessonName.ipynb)
+- Link to challenges in [Jupyter notebooks like this](../Notebooks/HypothesisTesting.ipynb)
 
 ### Stretch Challenges
-- Additional (optional) ambitious challenges
+- Homework ()
