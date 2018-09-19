@@ -9,6 +9,30 @@ Gain a strong grounding in statistical concepts including measures of center and
 Utilize statistical techniques to calculate z-scores and confidence intervals, perform hypothesis tests, and identify outliers.
 
 
+## Schedule
+
+**Course Dates:** Tuesday, August 28 – Thursday, October 11, 2018 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|   1   |  Tuesday, August 28    | Intro to Data Science Process & Tools |
+|   2   | Thursday, August 30    | Data Manipulation & Visualization |
+|   3   |  Tuesday, September 4  | Data Cleaning & Descriptive Statistics |
+|   4   | Thursday, September 6  | Conditional Probability |
+|   5   |  Tuesday, September 11 | Statistical Distributions & Sampling |
+|   6   | Thursday, September 13 | Normal Distribution, CLT & Z-Scores |
+|   7   |  Tuesday, September 18 | NPS Project Data Wrangling Check-in |
+|   8   | Thursday, September 20 | NPS Project Data Analysis Presentations |
+|   9   |  Tuesday, September 25 | Hypothesis Testing & Acceptable Error |
+|  10   | Thursday, September 27 | Confidence Intervals & Outliers |
+|  11   |  Tuesday, October 2    | Statistical Distributions Continued |
+|  12   | Thursday, October 4    | Time Series Data & Applications |
+|       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
+|  13   | Thursday, October 11   | Custom Project Presentations |
+
+
 ## Course Specifics
 
 - Weeks to Completion: 7
@@ -37,15 +61,15 @@ By the end of this course, students will be able to:
 
 ## Tutorials
 
-Student will complete the following guided tutorials in this course:
-- Exploratory Data Analysis & Visualization with App Store Data
-- Advanced Data Analysis & Visualization with Pokémon Data
+Students will complete the following guided tutorials in this course:
+- [Exploratory Data Analysis & Visualization with App Store Dataset](http://make.sc/app-store-dataset)
+- Advanced Data Analysis & Visualization with Pokémon Dataset
 
 
 ## Projects
 
-Student will complete the following projects in this course:
-- Make School Summer Academy NPS Data Wrangling & Analysis
+Students will complete the following self-guided projects in this course:
+- [Make School Summer Academy NPS Data Wrangling & Analysis](http://make.sc/sa-nps-project)
 - Custom Project: Students will select a problem, identify data sources, analyze and present findings
 
 
@@ -57,30 +81,6 @@ To pass this course, students must meet the following requirements:
 - Make up all classwork from all absences
 - Finish all required tutorials and projects
 - Pass the final exam (summative assessment)
-
-
-## Schedule
-
-**Course Dates:** Tuesday, August 28 – Thursday, October 11, 2018 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, August 28    | Intro to Data Science Process & Tools |
-|   2   | Thursday, August 30    | Data Manipulation & Visualization |
-|   3   |  Tuesday, September 4  | Data Cleaning & Descriptive Statistics |
-|   4   | Thursday, September 6  | Conditional Probability |
-|   5   |  Tuesday, September 11 | Statistical Distributions & Sampling |
-|   6   | Thursday, September 13 | Standard Normal Distribution & Z-Scores |
-|   7   |  Tuesday, September 18 | NPS Project Data Wrangling Check-in |
-|   8   | Thursday, September 20 | NPS Project Data Analysis Presentations |
-|   9   |  Tuesday, September 25 | Confidence Intervals & Outliers |
-|  10   | Thursday, September 27 | Hypothesis Testing & Acceptable Error |
-|  11   |  Tuesday, October 2    | Time Series Concepts |
-|  12   | Thursday, October 4    | Time Series Manipulation |
-|       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
-|  13   | Thursday, October 11   | Custom Project Presentations |
 
 
 ## Make School Policies
