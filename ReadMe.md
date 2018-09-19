@@ -18,21 +18,31 @@ Utilize statistical techniques to calculate z-scores and confidence intervals, p
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |   1   |  Tuesday, August 28    | [Data Science Process & Tools] |
-|   2   | Thursday, August 30    | Data Manipulation & Visualization |
-|   3   |  Tuesday, September 4  | Data Cleaning & Descriptive Statistics |
-|   4   | Thursday, September 6  | Conditional Probability |
-|   5   |  Tuesday, September 11 | Statistical Distributions & Sampling |
-|   6   | Thursday, September 13 | Normal Distribution, CLT & Z-Scores |
+|   2   | Thursday, August 30    | [Data Manipulation & Visualization] |
+|   3   |  Tuesday, September 4  | [Data Cleaning & Descriptive Statistics] |
+|   4   | Thursday, September 6  | [Conditional Probability] |
+|   5   |  Tuesday, September 11 | [Statistical Distributions & Sampling] |
+|   6   | Thursday, September 13 | [Normal Distribution, CLT & Z-Scores] |
 |   7   |  Tuesday, September 18 | NPS Project Data Wrangling Check-in |
 |   8   | Thursday, September 20 | NPS Project Data Analysis Presentations |
-|   9   |  Tuesday, September 25 | Hypothesis Testing & Acceptable Error |
-|  10   | Thursday, September 27 | Confidence Intervals & Outliers |
-|  11   |  Tuesday, October 2    | Statistical Distributions Continued |
-|  12   | Thursday, October 4    | Time Series Data & Applications |
+|   9   |  Tuesday, September 25 | [Hypothesis Testing & Acceptable Error] |
+|  10   | Thursday, September 27 | [Confidence Intervals & Outliers] |
+|  11   |  Tuesday, October 2    | [Statistical Distributions Continued] |
+|  12   | Thursday, October 4    | [Time Series Data & Applications] |
 |       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
 |  13   | Thursday, October 11   | Custom Project Presentations |
 
 [Data Science Process & Tools]: Lessons/DataScienceProcess.md
+[Data Manipulation & Visualization]: Lessons/DataManipulation.md
+[Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
+[Conditional Probability]: Lessons/ConditionalProbability.md
+[Statistical Distributions & Sampling]: Lessons/StatisticalDistributions.md
+[Normal Distribution, CLT & Z-Scores]: Lessons/NormalDistribution.md
+[Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
+[Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
+[Statistical Distributions Continued]: Lessons/StatisticalDistributions2.md
+[Time Series Data & Applications]: Lessons/TimeSeriesData.md
+
 
 ## Course Specifics
 
