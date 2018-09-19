@@ -1,18 +1,18 @@
-## Lesson Name
+## Hypothesis Testing & Acceptable Error
 
 ### Topics
-- Topic 1
-- Topic 2
-  - Subtopic 2A
-  - Subtopic 2B
-- Topic 3
+- What is null hypothesis and why it is important?
+- Null hypothesis  by example
+  - Real life examples
+  - Industrial examples
+- Procedures to calculate z-score in order to accept or reject null hypothesis
 
 ### Learning Objectives (Competencies)
 By the end of this lesson, students will be able to:
-1. Identify concepts
-2. Define vocabulary
-3. Apply techniques
-4. Utilize skills
+1. Identify when and how apply null Hypothesis
+2. What are the metrics we need in order to statistically accept or reject null  
+3. How and when use Z test or T test
+4. Whether or not two samples are different
 
 ### Activities
 - Start with why - to motivate topics (5 min)
@@ -26,14 +26,15 @@ By the end of this lesson, students will be able to:
 ### Resources
 - Link to additional articles and videos
 - Attribute authors and give descriptive titles
-  - Watch Andrew Ng's [video on the intuition behind gradient descent](URL-here)
+  -  Read this blog from iaingallagher [Z and T test in Python](http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python)
   - Read Jason Brownlee's [article on dropout regularization](URL-here) and the intuition behind why it adds robustness to neural networks
   - Reference the [Keras `Sequential` model documentation](URL-here) with examples of using dropout layers
 - Prioritize resources in order of learning utility
 
 ### Challenges
-- Clear and concise description of challenges
-- Be as specific as possible to avoid ambiguity
+- Write a function the takes the mean of population, significant level and the samples as the    input argument then decide to reject or accept the null hypothesis
+- Compare their calculation with methods available in stats module in scipy
+- Write a function that determine whether use z-score or t-test in order to accept or reject null Hypothesis
 - Link to challenges in [Jupyter notebooks like this](../Notebooks/LessonName.ipynb)
 
 ### Stretch Challenges
