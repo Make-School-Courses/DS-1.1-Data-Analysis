@@ -1,4 +1,4 @@
-## Conditional Probability
+## Conditional Probability [(Slides)](https://docs.google.com/presentation/d/1sMKelEiYNZeyJrGMHCuQY2kmwqlBlytk9fcaZfyxedg/edit?usp=sharing)
 
 ### Topics
 - Review of Basic Data Exploration and Analysis

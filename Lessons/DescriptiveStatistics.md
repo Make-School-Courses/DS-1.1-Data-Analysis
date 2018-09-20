@@ -1,4 +1,4 @@
-## Data Cleaning & Descriptive Statistics
+## Data Cleaning & Descriptive Statistics [(Slides)](https://docs.google.com/presentation/d/12dQn9TdJMv4nUUl4lAcON7lsBLSD_KYW_UksicxVi0M/edit?usp=sharing)
 
 ### Topics
 - Review of the Data Visualization Toolkit
