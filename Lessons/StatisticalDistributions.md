@@ -1,40 +1,27 @@
-## Lesson Name
+## Statistical Distributions & Sampling
 
 ### Topics
-- Topic 1
-- Topic 2
-  - Subtopic 2A
-  - Subtopic 2B
-- Topic 3
-
-### Learning Objectives (Competencies)
-By the end of this lesson, students will be able to:
-1. Identify concepts
-2. Define vocabulary
-3. Apply techniques
-4. Utilize skills
-
-### Activities
-- Start with why - to motivate topics (5 min)
-- Think, pair, share on topic 1 (10 min)
-- Lecture following [slides on topic 1 and 2](URL-here) (20 min)
-- I do, we do, you do on topic 2 (20 min)
-- Break (5 min)
-- Read and discuss [article on topic 3](URL-here) (20 min)
-- Pair program on challenges listed below (30 min)
+- Intro to Statistical Distributions
+  - Review of Histograms
+  - Review of Basic Descriptive Stats (MMM)
+  - Intermediate Descriptive Statistics
+    - Standard Deviation
+    - Variance
+  - Intro to Normal Distributions
+  - Skew and Distributional Irregularity
+- Intro to the Central Limit Theorem
+  - Sampling Methods
 
 ### Resources
-- Link to additional articles and videos
-- Attribute authors and give descriptive titles
-  - Watch Andrew Ng's [video on the intuition behind gradient descent](URL-here)
-  - Read Jason Brownlee's [article on dropout regularization](URL-here) and the intuition behind why it adds robustness to neural networks
-  - Reference the [Keras `Sequential` model documentation](URL-here) with examples of using dropout layers
-- Prioritize resources in order of learning utility
+- Read this awesome PurpleMath [article on basic descriptive statistics](https://www.purplemath.com/modules/meanmode.htm)
+- Read this Math Is Fun [article on the Standard Normal Distribution](https://www.mathsisfun.com/data/standard-normal-distribution.html)
+- Play with this Brown University [visualization tool for sampling data using the Central Limit Theorem](http://students.brown.edu/seeing-theory/probability-distributions/index.html#section3)
+- Read this Towards Data Science [article on understanding the Central Limit Theorem](https://towardsdatascience.com/understanding-the-central-limit-theorem-642473c63ad8)
 
 ### Challenges
-- Clear and concise description of challenges
-- Be as specific as possible to avoid ambiguity
-- Link to challenges in [Jupyter notebooks like this](../Notebooks/LessonName.ipynb)
-
-### Stretch Challenges
-- Additional (optional) ambitious challenges
+- Create various distributions out of 2017 Kaggle Income Data features
+- Create custom functions for sampling means and generating normal distributions off of 2017 Kaggle Income Data
+- Visualize means of sample distributions for 2017 Kaggle Income Data
+- Calculate the mean, median and mode, as well as the standard deviation of the ticket price, age, and Parch/SibSp columns from the Titanic dataset
+- Visualize more results from Sections 3-5 in App Store EDA tutorial
+- Complete [this notebook on Measures of Center and Spread](../Notebooks/StatisticalDistributions.ipynb)
