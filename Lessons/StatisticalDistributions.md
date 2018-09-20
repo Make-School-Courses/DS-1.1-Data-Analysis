@@ -1,4 +1,4 @@
-## Statistical Distributions & Sampling
+## Statistical Distributions & Sampling [(Slides)](https://docs.google.com/presentation/d/17AIC8tN-A9UWm631sWI_uAJoESU01FcYPn23_1RFZf4/edit?usp=sharing)
 
 ### Topics
 - Intro to Statistical Distributions

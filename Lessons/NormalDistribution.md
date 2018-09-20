@@ -1,4 +1,4 @@
-## Normal Distribution, CLT and Z-Scores
+## Normal Distribution, CLT and Z-Scores [(Slides)](https://docs.google.com/presentation/d/1Ja5ehlVgWolbZGhQQr8hKzoIQgvMwfydS3f6vDCS2Wc/edit?usp=sharing)
 
 ### Topics
 - Advanced Descriptive Statistics
