@@ -1,4 +1,4 @@
-## Lesson Name
+## Conditional Probability
 
 ### Topics
 - Review of Basic Data Exploration and Analysis
