@@ -1,5 +1,5 @@
 
-## Data Manipulation & Visualization
+## Data Manipulation & Visualization [(Slides)](https://docs.google.com/presentation/d/1msr4k8kCOrGjx3Jmzq0Ml7VE2PXZffuuxHcm4-yBxx0/edit?usp=sharing)
 
 ### Topics
 - Review of the Data Science Process

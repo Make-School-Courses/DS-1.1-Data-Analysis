@@ -1,4 +1,4 @@
-## Data Science Process & Tools
+## Data Science Process & Tools [(Slides)](https://docs.google.com/presentation/d/1lrY3JDUvyE64rWKXpgwQwQRPvfc7l_RAezdsrIR9BuI/edit?usp=sharing)
 
 ### Topics
 - Data Science Process & Tools
