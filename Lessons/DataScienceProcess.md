@@ -10,7 +10,7 @@
     - Manipulating data with Pandas and NumPy
 
 ### Resources
-- Read through this [10 minute introductory exploration of Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+- Read and work through this [10-minute introductory exploration of Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 - Read Adi Bronshtein's [quick introduction to the Pandas Python library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
 - Solidify your knowledge with Ryan Abernathey and Kerry Key's [intermediate Pandas exploration with tabular data](https://rabernat.github.io/research_computing/pandas.html)
 - Use this [Pandas data wrangling cheat sheet](http://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) as a quick reference

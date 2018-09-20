@@ -1,40 +1,23 @@
-## Lesson Name
+## Normal Distribution, CLT and Z-Scores
 
 ### Topics
-- Topic 1
-- Topic 2
-  - Subtopic 2A
-  - Subtopic 2B
-- Topic 3
-
-### Learning Objectives (Competencies)
-By the end of this lesson, students will be able to:
-1. Identify concepts
-2. Define vocabulary
-3. Apply techniques
-4. Utilize skills
-
-### Activities
-- Start with why - to motivate topics (5 min)
-- Think, pair, share on topic 1 (10 min)
-- Lecture following [slides on topic 1 and 2](URL-here) (20 min)
-- I do, we do, you do on topic 2 (20 min)
-- Break (5 min)
-- Read and discuss [article on topic 3](URL-here) (20 min)
-- Pair program on challenges listed below (30 min)
+- Advanced Descriptive Statistics
+  - The Standard Normal Distribution
+  - Applications of the Central Limit Theorem
+  - Intro to Z-Scores
+  - Converting Z-Scores to Probabilities (and Vice Versa)
+- Introduction to Net Promoter Scores (NPS)
 
 ### Resources
-- Link to additional articles and videos
-- Attribute authors and give descriptive titles
-  - Watch Andrew Ng's [video on the intuition behind gradient descent](URL-here)
-  - Read Jason Brownlee's [article on dropout regularization](URL-here) and the intuition behind why it adds robustness to neural networks
-  - Reference the [Keras `Sequential` model documentation](URL-here) with examples of using dropout layers
-- Prioritize resources in order of learning utility
+- Go through [this article on the normal (Gaussian) distribution](https://www.mathsisfun.com/data/standard-normal-distribution.html) by Math Is Fun
+- Read this [article on Z-scores and distributions](http://www.statisticshowto.com/probability-and-statistics/z-score/)
+- Watch WSU math professor Dr. Poyser's [fascinating video on normal distributions and z-scores](https://www.youtube.com/watch?v=zZWd56VlN7w)
 
 ### Challenges
-- Clear and concise description of challenges
-- Be as specific as possible to avoid ambiguity
-- Link to challenges in [Jupyter notebooks like this](../Notebooks/LessonName.ipynb)
+- Create sampling distribution of means from column in US income dataset (Use previously-built custom functions)
+- Answer 3-5 descriptive stats questions using stats module's `.zscore()`, `.norm.cdf()`, and `.norm.sf()`
+- Complete [this notebook on CLT and distributions](../Notebooks/NormalDistribution.ipynb)
 
 ### Stretch Challenges
-- Additional (optional) ambitious challenges
+- Write a custom function to calculate the Z-Score of one or many data points in a distribution
+- Write a custom `.describe()` function returning important descriptive stats in a tabular manner from a non-DataFrame dataset (NP array, Python list)
