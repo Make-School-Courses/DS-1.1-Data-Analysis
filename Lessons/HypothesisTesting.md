@@ -2,15 +2,15 @@
 
 ### Min-by-Min Plan
 
-10 min - What is Null Hypothesis, and why is it important to learn?
-5 min - Objectives
-10 min - Review of Standard Normal
-10 min - Activity: Identify and Generate Null Hypotheses
-25 min - TT: Example of NH with Drug data
-10 min - Break 
-25 min - Challenges 
-10 min - Review Challenges 
-5 min - Q&A Wrap Up
+- 10 min - What is Null Hypothesis, and why is it important to learn?
+- 5 min - Objectives
+- 10 min - Review of Standard Normal
+- 10 min - Activity: Identify and Generate Null Hypotheses
+- 25 min - TT: Example of NH with Drug data
+- 10 min - Break 
+- 25 min - Challenges 
+- 10 min - Review Challenges 
+- 5 min - Q&A Wrap Up
 
 ## What is Null Hypothesis - Real Life & In Industry (10 min)
 
