@@ -69,7 +69,7 @@ You can also do more with these tests ...
 ## Challenge #1-3: Mean Population (25 min)
 
 1. Write a function the takes the mean of population, significant level and the samples as the input argument then decide to reject or accept the null hypothesis
-1. Compare their calculation with methods available in stats module in scipy
+1. Calculate t-score from it definition and compare it to the methods available in stats module in scipy
 1. Write a function that determine whether use z-score or t-test in order to accept or reject null Hypothesis
 1. Link to challenges in [Jupyter notebooks](../Notebooks/HypothesisTesting.ipynb)
 
