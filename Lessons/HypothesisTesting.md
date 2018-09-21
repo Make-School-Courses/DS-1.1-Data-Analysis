@@ -3,8 +3,8 @@
 ### Topics
 - What is null hypothesis and why it is important?
 - Null hypothesis  by example
-  - Real life examples
-  - Industrial examples
+  - Real life examples, rain dance
+  - Industrial examples, A/B testing
 - Procedures to calculate z-score in order to accept or reject null hypothesis
 
 ### Learning Objectives (Competencies)
@@ -15,13 +15,20 @@ By the end of this lesson, students will be able to:
 4. Whether or not two samples are different
 
 ### Activities
-- Start with why - to motivate topics (5 min)
-- Think, pair, share on topic 1 (10 min)
-- Lecture following [z score and survival function](URL-here) (20 min)
-- I do, we do, you do on topic 2 (20 min)
-- Break (5 min)
-- Read and discuss [Z and T test](http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python) (20 min)
-- Pair program on challenges listed below (30 min)
+- Reminder for Z distribution, and ask student to verify Z distribution is standard normal, CDF and survival function review (10 min)
+- Show the table of examples for null statement, explain the first 2-3 (5 min)
+- TT: what is null Hypothesis by mentioning drug effect example what is z-score? (20 min)
+- TT: Why learn null hypothesis? (10 min)
+- TT: How to calculate p-value from z-score? (5 min)  
+- Ask students to do the first challenge  (10 min)
+- Break (10 min)
+- TT: Possible errors that can happen when accept or reject null hypothesis (5 min)
+- Ask students to do the second challenge (10 min)
+- TT: When use Z test and T test (5 min)
+- Ask student to do third challenge (10 min)
+- TT: What is one-tail or two-tail calculation for p-value? (5 min)
+- Read and discuss [Z and T test](http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python) (10 min)
+- Wrap up, homework explanation (5 min)
 
 ### Resources
 - Link to additional articles and videos
@@ -33,7 +40,7 @@ By the end of this lesson, students will be able to:
 
 
 ### Challenges
-- Write a function the takes the mean of population, significant level and the samples as the    input argument then decide to reject or accept the null hypothesis
+- Write a function the takes the mean of population, significant level and the samples as the input argument then decide to reject or accept the null hypothesis
 - Compare their calculation with methods available in stats module in scipy
 - Write a function that determine whether use z-score or t-test in order to accept or reject null Hypothesis
 - Link to challenges in [Jupyter notebooks](../Notebooks/HypothesisTesting.ipynb)
