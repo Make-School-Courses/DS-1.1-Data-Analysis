@@ -18,11 +18,12 @@ Think about a raindance, or superstition in general. Why did people believe the 
 
 ![Raindance](https://downtrend.com/wp-content/uploads/2015/06/Native-Americans-Gay-Marriage.jpg)
 
-**Null Hypothesis** is ...
+**Null Hypothesis** is the formal methods of reaching conclusions based on population statistics and sample data where
+we apply changes to population
 
 Industry uses
-* Drug test
-* Causes of disease
+* Drug test on response time of brain
+* A special food boost IQ
 * A/B Marketing Test
 
 
