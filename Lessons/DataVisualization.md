@@ -20,6 +20,7 @@
 - Read this Forbes [article on data literacy](https://www.forbes.com/sites/homaycotte/2014/10/28/data-literacy-what-it-is-and-why-none-of-us-have-it/#6ff4b02168bb) and why it's needed in the professional world
 
 ### Challenges
+- Complete [this online guide/tutorial in Pandas tools](https://pandas.pydata.org/pandas-docs/stable/10min.html) if you haven't already
+- Complete [this notebook](../Notebooks/DataVisualization.ipynb) on basic data visualization with Seaborn on the _Titanic_ data
 - Write and answer at least 3-5 descriptive analysis questions using basic data slicing/indexing
 - Create 3-5 descriptive visualizations (scatterplots, histograms, pie charts) for the Titanic dataset
-- Complete [this online guide/tutorial in Pandas tools](https://pandas.pydata.org/pandas-docs/stable/10min.html) if you haven't already

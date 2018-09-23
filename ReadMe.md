@@ -33,7 +33,7 @@ Utilize statistical techniques to calculate z-scores and confidence intervals, p
 |  13   | Thursday, October 11   | Custom Project Presentations |
 
 [Data Science Process & Tools]: Lessons/DataScienceProcess.md
-[Data Manipulation & Visualization]: Lessons/DataManipulation.md
+[Data Manipulation & Visualization]: Lessons/DataVisualization.md
 [Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
 [Conditional Probability]: Lessons/ConditionalProbability.md
 [Statistical Distributions & Sampling]: Lessons/StatisticalDistributions.md
