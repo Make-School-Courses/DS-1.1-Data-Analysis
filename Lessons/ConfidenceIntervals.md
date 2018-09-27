@@ -59,4 +59,4 @@ Task: Write a function to find and remove outliers based on IQR method for a giv
 ## Q&A Wrap up (5 min)
 
 ## Resources
-- Read this assignment from CS department of Utah[Z and T test in Python](https://www.cs.utah.edu/~jeffp/teaching/cs3130/homeworks/hw7.pdf)
+- Read this assignment from CS department of Utah [Estimation and Confidence Intervals](https://www.cs.utah.edu/~jeffp/teaching/cs3130/homeworks/hw7.pdf)
