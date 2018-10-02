@@ -28,9 +28,9 @@ By the end of this lesson, students will be able to:
 
 Tasks:
 
-1- For a given generated concatenation of two Gaussian random variable, student first visualize its histogram
-2- Fit a GMM to their dataset
-3- Interpret the GMM parameters to the original data sample
+1. For a given generated concatenation of two Gaussian random variable, student first visualize its histogram
+2. Fit a GMM to their dataset
+3. Interpret the GMM parameters to the original data sample
 
 
 ## What is KDE? (5 min)
@@ -40,7 +40,7 @@ Kernel density estimation (KDE) is a non-parametric way to estimate the probabil
 
 ## Activity: Apply KDE on a given data sample
 
-Task: Write line of codes to fir KDE to the given data sample
+Task: Write line of codes to fit KDE to the given data sample
 
 
 ## Break (10 min)
@@ -60,4 +60,4 @@ Task: Plot the correlation by heatmap and corr plot in Seaborn for all features 
 ## Q&A Wrap up (5 min)
 
 ## Resources
-- Read this blog [all about GMM and KDE ](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/)
+- Read this blog [KDE ](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/)
