@@ -40,7 +40,7 @@ Utilize statistical techniques to calculate z-scores and confidence intervals, p
 [Normal Distribution, CLT & Z-Scores]: Lessons/NormalDistribution.md
 [Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
-[Statistical Distributions Continued]: Lessons/StatisticalAnalysis.md
+[Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 
 
