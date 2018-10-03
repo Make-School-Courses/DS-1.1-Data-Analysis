@@ -55,7 +55,9 @@ Task: Plot the correlation by heatmap and corr plot in Seaborn for all features 
 
 
 
-## Review Answers of Challenges (10 min)
+## Challenges (10 min)
+
+ Write a code to compute the correlation. The formula is [Peasrson Correlation](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient). Compare your code with what we get from df.corr() from Pandas
 
 ## Q&A Wrap up (5 min)
 
