@@ -53,7 +53,7 @@ Write a code to compute the followings:
 
 1. How many government accounts have made comments in the month this dataset covers?
 2. What day had the most comments? which had the least?
-3. We'll define a fradulent account as one that has made more than 40 average clicks per minute. how many fraud accounts are there in this dataset? How many are students in college? Do non accounts have a higher probability of being fraud vs the probability of being fraudulent if they are non-government accounts?
+3. We'll define a fradulent account as one that has made more than 40 average clicks per minute. how many fraud accounts are there in this dataset? How many are students in college? Do non-government accounts have a higher probability of being fraud vs the probability of being fraudulent if they are non-government accounts?
 4. How many comments mention 'gradiva' and were there more mentions during the day or night?
 5. Was the latter half of the month more popular for commenting than the earlier half?
 6. What is the average length of a comment coming from people in the irs?
@@ -61,4 +61,4 @@ Write a code to compute the followings:
 ## Q&A Wrap up (5 min)
 
 ## Resources
-- Read this blog [KDE ](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/)
+- Watch these series of videos blog [Python Programming for Finance ](https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/)

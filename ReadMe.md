@@ -91,7 +91,12 @@ To pass this course, students must meet the following requirements:
 - No more than four excused absences (communicated in advance)
 - Make up all classwork from all absences
 - Finish all required tutorials and projects
-- Pass the final exam (summative assessment)
+- Pass the final exam (summative assessment). The topics for final exam would be:
+1- Null hypothesis, the steps to accept or reject it
+2- Statistical terms and meanings such as Z-distribution, CDF, SF, ...
+3- Histogram, density estimations
+4- Outlier detection
+5- Correlation
 
 
 ## Make School Policies
