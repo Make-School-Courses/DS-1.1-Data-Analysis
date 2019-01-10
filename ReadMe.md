@@ -61,7 +61,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 - CS 1.2: How Data Structures Work
 
 
-## Learning Outcomes (Competencies)
+## Learning Outcomes
 
 By the end of this course, students will be able to:
 - Use industry-standard libraries (Pandas and NumPy) to clean and preprocess a dataset
