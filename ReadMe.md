@@ -49,8 +49,8 @@ Students by the end of the course will be able to
 |  1 | Wednesday, January 23    | [Introduction to Data Science] |
 |  2 | Monday, January 28             | [Simple Data Manipulation] |
 |  3 |  Wednesday, January 30             | [Data Manipulation & Visualization] |
-|  4 | Monday, February 4             | [Conditional Probability] |
-|  5 |  Wednesday, February 6             | [Statistical Distributions & Sampling] |
+|  4 | Monday, February 4             | [DataFrame Combinations] |
+|  5 |  Wednesday, February 6             | [Applied Descriptive Statistics] |
 |  6 | Monday, February 11             | [Normal Distribution, CLT & Z-Scores] |
 |  7 |  Wednesday, February 13            | [NPS Project Data Wrangling Check-in] |
 |  -  | Monday, February 18             | **President's Day (Observed)** |
@@ -63,8 +63,8 @@ Students by the end of the course will be able to
 
 [Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
 [Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
-[Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
-[Conditional Probability]: Lessons/ConditionalProbability.md
+[Data Manipulation & Visualization]: Lessons/DataManipulationVisualization.md
+[DataFrame Combinations]: Lessons/ConditionalProbability.md
 [Statistical Distributions & Sampling]: Lessons/StatisticalDistributions.md
 [Normal Distribution, CLT & Z-Scores]: Lessons/NormalDistribution.md
 [Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
