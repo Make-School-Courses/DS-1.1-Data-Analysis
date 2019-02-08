@@ -47,8 +47,8 @@ Students by the end of the course will be able to
 |:-----:|:----------------------:|:---------------------------------------:|
 |  -  | Monday, January 21             | **MLK Jr. Day** |
 |  1 | Wednesday, January 23    | [Introduction to Data Science] |
-|  2 | Monday, January 28             | [Data Manipulation & Visualization] |
-|  3 |  Wednesday, January 30             | [Data Cleaning & Descriptive Statistics] |
+|  2 | Monday, January 28             | [Simple Data Manipulation] |
+|  3 |  Wednesday, January 30             | [Data Manipulation & Visualization] |
 |  4 | Monday, February 4             | [Conditional Probability] |
 |  5 |  Wednesday, February 6             | [Statistical Distributions & Sampling] |
 |  6 | Monday, February 11             | [Normal Distribution, CLT & Z-Scores] |
@@ -62,7 +62,7 @@ Students by the end of the course will be able to
 |  13 |  Wednesday, March 6            | Final Exams/Presentations |
 
 [Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
-[Data Manipulation & Visualization]: Lessons/DataVisualization.md
+[Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
 [Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
 [Conditional Probability]: Lessons/ConditionalProbability.md
 [Statistical Distributions & Sampling]: Lessons/StatisticalDistributions.md
