@@ -46,7 +46,7 @@ Students by the end of the course will be able to
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  -  | Monday, January 21             | **MLK Jr. Day** |
-|  1 | Wednesday, January 23    | [Data Science Process & Tools] |
+|  1 | Wednesday, January 23    | [Introduction to Data Science] |
 |  2 | Monday, January 28             | [Data Manipulation & Visualization] |
 |  3 |  Wednesday, January 30             | [Data Cleaning & Descriptive Statistics] |
 |  4 | Monday, February 4             | [Conditional Probability] |
@@ -61,7 +61,7 @@ Students by the end of the course will be able to
 |  12 | Monday, March 4             | Final Class (presentations, etc) |
 |  13 |  Wednesday, March 6            | Final Exams/Presentations |
 
-[Data Science Process & Tools]: Lessons/DataScienceProcess.md
+[Data Science Process & Tools]: Lessons/IntroductiontoDataScience.md
 [Data Manipulation & Visualization]: Lessons/DataVisualization.md
 [Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
 [Conditional Probability]: Lessons/ConditionalProbability.md
