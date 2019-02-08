@@ -61,7 +61,7 @@ Students by the end of the course will be able to
 |  12 | Monday, March 4             | Final Class (presentations, etc) |
 |  13 |  Wednesday, March 6            | Final Exams/Presentations |
 
-[Data Science Process & Tools]: Lessons/IntroductiontoDataScience.md
+[Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
 [Data Manipulation & Visualization]: Lessons/DataVisualization.md
 [Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
 [Conditional Probability]: Lessons/ConditionalProbability.md
