@@ -65,7 +65,7 @@ Students by the end of the course will be able to
 [Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
 [Data Manipulation & Visualization]: Lessons/DataManipulationVisualization.md
 [How to Combine DataFrames]: Lessons/HowtoCombineDataFrames.md
-[Statistical Distributions & Sampling]: Lessons/StatisticalDistributions.md
+[Applied Descriptive Statistics]: Lessons/AppliedDescriptiveStatistics.md
 [Normal Distribution, CLT & Z-Scores]: Lessons/NormalDistribution.md
 [Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
