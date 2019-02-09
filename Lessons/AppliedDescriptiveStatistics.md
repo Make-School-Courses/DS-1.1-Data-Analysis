@@ -1,8 +1,8 @@
-## Learning Objectives
+# Learning Objectives
 - Learn what is mean, median and mode and why there are important
 - Learn what is range, variance, percentile
 
-# An Introduction to Descriptive Statistics
+## An Introduction to Descriptive Statistics
 
 - At this point in our course, we've had plenty of time, experience, and practice in manipulating our data.
 
