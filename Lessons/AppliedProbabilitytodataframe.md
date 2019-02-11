@@ -217,6 +217,8 @@ This allows us to make inferences regarding the data's distribution, including b
 
 - As you can see, we see different degrees of data captured within bounds that are created by the standard deviation.
 
+<br><img src="http://www.oswego.edu/~srp/stats/images/normal_34.gif" /><br>
+
 So to make it clear:
 - 68% of the data is captured within one standard deviation from the mean.
 - 95% of the data is captured within two standard deviations from the mean.
