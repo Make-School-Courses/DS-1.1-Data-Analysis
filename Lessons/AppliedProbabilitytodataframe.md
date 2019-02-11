@@ -175,6 +175,8 @@ import seaborn as sns
 sns.distplot(df['Age'].dropna(), hist=True, kde=True, bins=20)
 sns.distplot(df['Age'].dropna(), hist_kws=dict(cumulative=True), kde_kws=dict(cumulative=True))
 chance_less_than_40 = len(df[df['Age'] <= 40])/len(ls_age)
+cdf_age = df['Age'].value_counts().sort_index().cumsum()/len(df['Fare'])
+cdf_age.plot()
 ```
 
 # How to calculate probability that a passenger was between 20 and 40?
