@@ -8,66 +8,75 @@ Collect a dataset, explore, analyze, and visualize it to discover trends, then p
 Gain a strong grounding in statistical concepts including measures of center and spread, distributions, sampling, and the central limit theorem.
 Utilize statistical techniques to calculate z-scores and confidence intervals, perform hypothesis tests, and identify outliers.
 
+## Course Specifics
+
+Weeks to Completion:  7 <br>
+Total Seat Hours:  37.5 hours <br>
+Total Out-of-Class Hours: 75 hours <br>
+Total Hours: 112.5 hours <br>
+Units:  3 units <br>
+Delivery Method:  Residential <br>
+Class Sessions:  14 classes, 7 labs
+
+## Prerequisites:  
+
+- CS 1.1
+- CS 1.2
+
+## Learning Objectives (5-8)
+
+Students by the end of the course will be able to
+
+1. Apply all data-frame processing with Pandas
+1. Report the findings in the dataset by visualization with  
+1. Reject or accept null hypothesis
+1. Do time series precessing
+1. Describe and implement a plan for finding and dealing with null values, outliers, and other problems in a dataset
+1. Explain the central limit theorem and why it is important in statistical analysis
+1. Use statistical methods to calculate a z-score, then interpret and explain what it means
 
 ## Schedule
 
-**Course Dates:** Tuesday, August 28 – Thursday, October 11, 2018 (7 weeks)
+**Course Dates:** Monday, January 21 – Wednesday, March 6, 2019 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
+
+
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, August 28    | [Data Science Process & Tools] |
-|   2   | Thursday, August 30    | [Data Manipulation & Visualization] |
-|   3   |  Tuesday, September 4  | [Data Cleaning & Descriptive Statistics] |
-|   4   | Thursday, September 6  | [Conditional Probability] |
-|   5   |  Tuesday, September 11 | [Statistical Distributions & Sampling] |
-|   6   | Thursday, September 13 | [Normal Distribution, CLT & Z-Scores] |
-|   7   |  Tuesday, September 18 | NPS Project Data Wrangling Check-in |
-|   8   | Thursday, September 20 | NPS Project Data Analysis Presentations |
-|   9   |  Tuesday, September 25 | [Hypothesis Testing & Acceptable Error] |
-|  10   | Thursday, September 27 | [Confidence Intervals & Outliers] |
-|  11   |  Tuesday, October 2    | [Statistical Analysis] |
-|  12   | Thursday, October 4    | [Time Series Data & Applications] |
-|       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
-|  13   | Thursday, October 11   | Custom Project Presentations |
+|  -  | Monday, January 21             | **MLK Jr. Day** |
+|  1 | Wednesday, January 23    | [Introduction to Data Science] |
+|  2 | Monday, January 28             | [Simple Data Manipulation] |
+|  3 |  Wednesday, January 30             | [Data Manipulation & Visualization] |
+|  4 | Monday, February 4             | [How to Combine DataFrames] |
+|  5 |  Wednesday, February 6             | [Applied Descriptive Statistics] |
+|  6 | Monday, February 11             | [Applied Probability to data frame] |
+|  7 |  Wednesday, February 13            | [NPS Project Data Wrangling Check-in] |
+|  -  | Monday, February 18             | **President's Day (Observed)** |
+|  8  | **Tuesday, February 19**             | [Hypothesis Testing & Acceptable Error] |
+|  9 |  Wednesday, February 20            | [Confidence Intervals & Outliers] |
+|  10 | Monday, February 25             | [Statistical Analysis] |
+|  11 |  Wednesday, February 27            | [Time Series Data & Applications] |
+|  12 | Monday, March 4             | Final Class (presentations, etc) |
+|  13 |  Wednesday, March 6            | Final Exams/Presentations |
 
-[Data Science Process & Tools]: Lessons/DataScienceProcess.md
-[Data Manipulation & Visualization]: Lessons/DataVisualization.md
-[Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
-[Conditional Probability]: Lessons/ConditionalProbability.md
-[Statistical Distributions & Sampling]: Lessons/StatisticalDistributions.md
-[Normal Distribution, CLT & Z-Scores]: Lessons/NormalDistribution.md
+[Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
+[Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
+[Data Manipulation & Visualization]: Lessons/DataManipulationVisualization.md
+[How to Combine DataFrames]: Lessons/HowtoCombineDataFrames.md
+[Applied Descriptive Statistics]: Lessons/AppliedDescriptiveStatistics.md
+[Applied Probability to data frame]: Lessons/AppliedProbabilitytodataframe.md
 [Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
 [Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 
+## Class Assignments
 
-## Course Specifics
+- Implement a dataset processing with Numpy only and then Pandas
+- Write a function that calculate conditional probability for two arbitrary attributes and arbitrary condition
 
-- Weeks to Completion: 7
-- Total Seat Hours: 37.5 hours
-- Total Out-of-Class Hours: 75 hours
-- Total Hours: 112.5 hours
-- Units: 3 units
-- Delivery Method: Residential
-- Class Sessions: 13 classes, 7 labs
-
-
-## Prerequisites
-
-Students must pass the following course and demonstrate mastery of its competencies:
-- CS 1.2: How Data Structures Work
-
-
-## Learning Outcomes
-
-By the end of this course, students will be able to:
-- Use industry-standard libraries (Pandas and NumPy) to clean and preprocess a dataset
-- Describe and implement a plan for finding and dealing with null values, outliers, and other problems in a dataset
-- Explain the central limit theorem and why it is important in statistical analysis
-- Use statistical methods to calculate a z-score, then interpret and explain what it means
 
 
 ## Tutorials
@@ -84,12 +93,14 @@ Students will complete the following self-guided projects in this course:
 - Custom Project: Students will select a problem, identify data sources, analyze and present findings
 
 
-## Evaluation
 
-To pass this course, students must meet the following requirements:
-- No more than two unexcused absences ("no-call-no-shows")
-- No more than four excused absences (communicated in advance)
-- Make up all classwork from all absences
+
+### Other Class assignments
+
+## Evaluation
+To pass this course you must meet the following requirements:
+
+- Do all in-class activities
 - Finish all required tutorials and projects
 - Pass the final exam (summative assessment). The topics for final exam would be:
 1- Null hypothesis, the steps to accept or reject it
@@ -98,17 +109,23 @@ To pass this course, students must meet the following requirements:
 4- Outlier detection
 5- Correlation
 
+## Attendance
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
 
-## Make School Policies
+Attendance requirements for scheduled sessions are:
+- No more than two no call no shows per term in any scheduled session.
+- No more than four excused absences per term in any scheduled session.
 
-- [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)
-- [Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)
-- [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)
-- [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
-- [Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
-- [Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 
-## Repository Setup
+## Make School Course Policies
 
-Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
+[Academic Honesty](https://make.sc/academic-honesty)<br>
+[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
+[Attendance Policy](https://make.sc/attendance-policy)  
+[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
+[Grading System](https://make.sc/grading-system)
+<br>
+[Title IX Policy](https://make.sc/title-ix-policy)<br>
+[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
