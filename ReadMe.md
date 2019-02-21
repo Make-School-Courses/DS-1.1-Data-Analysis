@@ -27,13 +27,13 @@ Class Sessions:  14 classes, 7 labs
 
 Students by the end of the course will be able to
 
-1. Apply all data-frame processing with Pandas
-1. Report the findings in the dataset by visualization with  
+1. Use Pands to perform data-frame processing
+1. Report findings in the dataset through data visualization
 1. Reject or accept null hypothesis
-1. Do time series precessing
+1. Use time series processing
 1. Describe and implement a plan for finding and dealing with null values, outliers, and other problems in a dataset
-1. Explain the central limit theorem and why it is important in statistical analysis
-1. Use statistical methods to calculate a z-score, then interpret and explain what it means
+1. Explain the central limit theorem its importance in statistical analysis
+1. Use statistical methods to calculate a z-score and explain what the z-score means
 
 ## Schedule
 
