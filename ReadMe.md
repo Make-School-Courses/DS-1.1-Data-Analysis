@@ -27,7 +27,7 @@ Class Sessions:  14 classes, 7 labs
 
 Students by the end of the course will be able to
 
-1. Use Pands to perform data-frame processing
+1. Use Pandas to perform data-frame processing
 1. Report findings in the dataset through data visualization
 1. Reject or accept null hypothesis
 1. Use time series processing
