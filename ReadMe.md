@@ -22,6 +22,8 @@ By the end of this course, students will be able to...
 
 ## Schedule
 
+**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
+
 **Course Dates:** Monday, January 21 – Wednesday, March 6, 2019 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
