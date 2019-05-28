@@ -24,27 +24,24 @@ By the end of this course, students will be able to...
 
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
 
-**Course Dates:** Monday, January 21 – Wednesday, March 6, 2019 (7 weeks)
+**Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
+**Class Times:** Monday and Wednesday at 1:30–3:20pm (11 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  -  | Monday, January 21             | **MLK Jr. Day** |
-|  1 | Wednesday, January 23    | [Introduction to Data Science] |
-|  2 | Monday, January 28             | [Simple Data Manipulation] |
-|  3 |  Wednesday, January 30             | [Data Manipulation & Visualization] |
-|  4 | Monday, February 4             | [How to Combine DataFrames] |
-|  5 |  Wednesday, February 6             | [Applied Descriptive Statistics] |
-|  6 | Monday, February 11             | [Applied Probability to data frame] |
-|  7 |  Wednesday, February 13            | [NPS Project Data Wrangling Check-in] |
-|  -  | Monday, February 18             | **President's Day (Observed)** |
-|  8  | **Tuesday, February 19**             | [Hypothesis Testing & Acceptable Error] |
-|  9 |  Wednesday, February 20            | [Confidence Intervals & Outliers] |
-|  10 | Monday, February 25             | [Statistical Analysis] |
-|  11 |  Wednesday, February 27            | [Time Series Data & Applications] |
-|  12 | Monday, March 4             | Final Class (presentations, etc) |
-|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+|  - |  Mon, May 27                         | **Memorial Day** |
+|  1 |  Wed, May 29                      | [Introduction to Data Science] |
+|  2 |  Mon, June 3                         | [Simple Data Manipulation] |
+|  3 |  Wed, June 5                     | [Data Manipulation & Visualization] <br/> **/** <br/> [How to Combine DataFrames] |
+|  4 |  Mon, June 10                        | [Applied Descriptive Statistics] |
+|  5 |  Wed, June 12                     | [Applied Probability to data frame] |
+|  6 |  Mon, June 17                        | NPS Project Data Wrangling Check-in |
+|  7 |  Wed, June 19                     | [Hypothesis Testing & Acceptable Error] |
+|  8 |  Mon, June 24                        | [Confidence Intervals & Outliers] <br/> **/** <br/> [Statistical Analysis] |
+| 9 |  Wed, June 26                        | [Time Series Data & Applications] |
+| 10 |  Mon, July 1                           | Final Exam |  
+| 11 |  Wed, July 3                        | Final Presentations |
 
 [Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
 [Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
