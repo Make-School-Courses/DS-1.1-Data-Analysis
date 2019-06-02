@@ -1,3 +1,5 @@
+## [Slides](../Notebooks/Data_Analysis_Intro.ipynb)
+
 ## Learning Objectives
 
 - What is Data Science?

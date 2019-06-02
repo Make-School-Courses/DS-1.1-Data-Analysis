@@ -12,13 +12,11 @@ In this course, students learn the foundational skills of data science, includin
 
 By the end of this course, students will be able to...
 
-1. Use Pandas to perform data-frame processing
-1. Report findings in a dataset through data visualization
+1. Conduct data manipulation and visualization
 1. Understand when to reject or accept a null hypothesis
-1. Use time series processing
-1. Describe and implement a plan for finding and dealing with null values, outliers, and other problems in a dataset
-1. Explain the central limit theorem and its importance in statistical analysis
-1. Use statistical methods to calculate a z-score and explain what the z-score means
+1. Apply descriptive statistics, probability, and other forms of data analysis techniques 
+1. Describe and implement a plan for finding and dealing with problems in a dataset such as null values and outliers
+1. Perform statistical analysis on data collections using a variety of methods 
 
 ## Schedule
 
