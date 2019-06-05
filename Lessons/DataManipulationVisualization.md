@@ -1,3 +1,5 @@
+# [Slides](../Notebooks/Pandas_Titanic.ipynb)
+
 ## Learning Objectives
 - Learn all of the methods in pandas for data-frame manipulation
 - Apply visualization to data-frame
