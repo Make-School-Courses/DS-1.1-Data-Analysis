@@ -30,8 +30,8 @@ By the end of this course, students will be able to...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  - |  Mon, May 27                         | **Memorial Day** |
 |  1 |  Wed, May 29                      | [Introduction to Data Science] |
-|  2 |  Mon, June 3                         | [Simple Data Manipulation] |
-|  3 |  Wed, June 5                     | [Data Manipulation & Visualization] <br/> **/** <br/> [How to Combine DataFrames] |
+|  2 |  Mon, June 3                         | [Simple Data Manipulation] <br/> **/** <br/> [Data Manipulation & Visualization] |
+|  3 |  Wed, June 5                     |   [How to Combine DataFrames] |
 |  4 |  Mon, June 10                        | [Applied Descriptive Statistics] |
 |  5 |  Wed, June 12                     | [Applied Probability to data frame] |
 |  6 |  Mon, June 17                        | NPS Project Data Wrangling Check-in |
