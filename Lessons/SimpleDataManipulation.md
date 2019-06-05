@@ -1,3 +1,5 @@
+# [Slides](../Notebooks/Pandas_Intro.ipynb)
+
 ## Learning Objectives
 - How to create pandas data-frame
 - How do data manipulation with Pandas
