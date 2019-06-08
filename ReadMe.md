@@ -36,8 +36,8 @@ By the end of this course, students will be able to...
 |  5 |  Wed, June 12                     | [Applied Probability to data frame] |
 |  6 |  Mon, June 17                        | NPS Project Data Wrangling Check-in |
 |  7 |  Wed, June 19                     | [Hypothesis Testing & Acceptable Error] |
-|  8 |  Mon, June 24                        | [Confidence Intervals & Outliers] <br/> **/** <br/> [Statistical Analysis] |
-| 9 |  Wed, June 26                        | [Time Series Data & Applications] |
+|  8 |  Mon, June 24                        | [Confidence Intervals & Outliers] |
+| 9 |  Wed, June 26                        | [Statistical Analysis] |
 | 10 |  Mon, July 1                           | Final Exam |  
 | 11 |  Wed, July 3                        | Final Presentations |
 
