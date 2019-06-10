@@ -1,3 +1,5 @@
+# [Slides](../Notebooks/Applied_Descriptive_Statistics.ipynb)
+
 # Learning Objectives
 - Learn what is mean, median and mode and why there are important
 - Learn what is range, variance, percentile
