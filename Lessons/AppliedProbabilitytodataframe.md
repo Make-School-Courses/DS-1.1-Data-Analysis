@@ -1,3 +1,5 @@
+# [Slides](../Notebooks/Applied_Probability.ipynb)
+
 # Learning Objectives
 
 - what is probability and conditional probability and how they applied to data-frame?
