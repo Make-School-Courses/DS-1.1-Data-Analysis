@@ -35,9 +35,9 @@ By the end of this course, students will be able to...
 |  4 |  Mon, June 10                        | [Applied Descriptive Statistics] |
 |  5 |  Wed, June 12                     | [Applied Probability to data frame] |
 |  6 |  Mon, June 17                        | NPS Project Data Wrangling Check-in |
-|  7 |  Wed, June 19                     | [Hypothesis Testing & Acceptable Error] |
-|  8 |  Mon, June 24                        | [Confidence Intervals & Outliers] |
-| 9 |  Wed, June 26                        | [Statistical Analysis] |
+|  7 |  Wed, June 19                     | [PDFs, CDFs, and Normal Distributions] |
+|  8 |  Mon, June 24                        | [Hypothesis Testing & Acceptable Error] |
+| 9 |  Wed, June 26                        | [Confidence Intervals & Outliers]<br/> **/** <br/>[Statistical Analysis] |
 | 10 |  Mon, July 1                           | Final Exam |  
 | 11 |  Wed, July 3                        | Final Presentations |
 
@@ -47,6 +47,7 @@ By the end of this course, students will be able to...
 [How to Combine DataFrames]: Lessons/HowtoCombineDataFrames.md
 [Applied Descriptive Statistics]: Lessons/AppliedDescriptiveStatistics.md
 [Applied Probability to data frame]: Lessons/AppliedProbabilitytodataframe.md
+[PDFs, CDFs, and Normal Distributions]: Notebooks/PDF_CDF_Normal.ipynb
 [Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
 [Statistical Analysis]: Lessons/StatisticalAnalysis.md
