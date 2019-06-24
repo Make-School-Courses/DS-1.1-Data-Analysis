@@ -1,5 +1,7 @@
 # Hypothesis Testing & Acceptable Error
 
+## [Slides](../Notebooks/HypothesisTesting.ipynb)
+
 ## Learning Objectives (Competencies)
 By the end of this lesson, students will be able to:
 1. Describe null hypothesis and when and how apply Null Hypothesis
@@ -132,8 +134,7 @@ http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python
 https://docs.google.com/document/d/1ITryiXU_VoyBvtZY4deehk4PmlieSlF7rSNc8sBU3Sw/edit
 
 ## Resources
-- Link to additional articles and videos
-- Attribute authors and give descriptive titles
-  -  Read this blog from iaingallagher [Z and T test in Python](http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python)
-  - Read Jeff Groff's [article on null hypothesis on Kaggle](https://www.kaggle.com/jgroff/unit-3-hypothesis-testing)
-  - More numerical examples on [Hypothesis Testing with the Z score](http://jukebox.esc13.net/untdeveloper/RM/Stats_Module_4/mobile_pages/Stats_Module_48.html)
+- [Slide Animation of T-test vs Z-test](https://docs.google.com/presentation/d/1BQibGlrpX71JU0jBU0C7zJJr6S_4WQeFzO7PBmnxf8g/edit?usp=sharing)
+-  Read this blog from iaingallagher [Z and T test in Python](http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python)
+- Read Jeff Groff's [article on null hypothesis on Kaggle](https://www.kaggle.com/jgroff/unit-3-hypothesis-testing)
+- More numerical examples on [Hypothesis Testing with the Z score](http://jukebox.esc13.net/untdeveloper/RM/Stats_Module_4/mobile_pages/Stats_Module_48.html)
