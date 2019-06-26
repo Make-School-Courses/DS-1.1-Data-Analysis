@@ -37,7 +37,7 @@ By the end of this course, students will be able to...
 |  6 |  Mon, June 17                        | NPS Project Data Wrangling Check-in |
 |  7 |  Wed, June 19                     | [PDFs, CDFs, and Normal Distributions] |
 |  8 |  Mon, June 24                        | [Hypothesis Testing & Acceptable Error] |
-| 9 |  Wed, June 26                        | [Confidence Intervals & Outliers]<br/> **/** <br/>[Statistical Analysis] |
+| 9 |  Wed, June 26                        | [Confidence Intervals, Outliers, and Statistical Analysis] |
 | 10 |  Mon, July 1                           | Final Exam |  
 | 11 |  Wed, July 3                        | Final Presentations |
 
@@ -52,6 +52,7 @@ By the end of this course, students will be able to...
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
 [Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
+[Confidence Intervals, Outliers, and Statistical Analysis]: Notebooks/Outlier_Correlation_StatisticalAnalysis.ipynb
 
 ## Class Assignments
 
