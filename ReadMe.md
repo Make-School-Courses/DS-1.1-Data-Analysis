@@ -66,7 +66,7 @@ By the end of this course, students will be able to...
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
-[Homework 1 - Histogram](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Homework/HW1_Pandas.ipynb)
+[Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
 
 ## Class Assignments
 
@@ -84,6 +84,7 @@ Students will complete the following guided tutorials in this course:
 Students will complete the following self-guided projects in this course:
 - [Make School Summer Academy NPS Data Wrangling & Analysis](http://make.sc/sa-nps-project)
 - Custom Project: Students will select a problem, identify data sources, analyze and present findings
+
 
 
 ## Evaluation
