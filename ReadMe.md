@@ -14,32 +14,33 @@ By the end of this course, students will be able to...
 
 1. Conduct data manipulation and visualization
 1. Understand when to reject or accept a null hypothesis
-1. Apply descriptive statistics, probability, and other forms of data analysis techniques 
+1. Apply descriptive statistics, probability, and other forms of data analysis techniques
 1. Describe and implement a plan for finding and dealing with problems in a dataset such as null values and outliers
-1. Perform statistical analysis on data collections using a variety of methods 
+1. Perform statistical analysis on data collections using a variety of methods
 
 ## Schedule
 
-**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
+**Course Dates:** Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
 
-**Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
-
-**Class Times:** Monday and Wednesday at 1:30–3:20pm (11 class sessions)
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 27                         | **Memorial Day** |
-|  1 |  Wed, May 29                      | [Introduction to Data Science] |
-|  2 |  Mon, June 3                         | [Simple Data Manipulation] <br/> **/** <br/> [Data Manipulation & Visualization] |
-|  3 |  Wed, June 5                     |   [How to Combine DataFrames] |
-|  4 |  Mon, June 10                        | [Applied Descriptive Statistics] |
-|  5 |  Wed, June 12                     | [Applied Probability to data frame] |
-|  6 |  Mon, June 17                        | NPS Project Data Wrangling Check-in |
-|  7 |  Wed, June 19                     | [PDFs, CDFs, and Normal Distributions] |
-|  8 |  Mon, June 24                        | [Hypothesis Testing & Acceptable Error] |
-| 9 |  Wed, June 26                        | [Confidence Intervals, Outliers, and Statistical Analysis] |
-| 10 |  Mon, July 1                           | Final Exam |  
-| 11 |  Wed, July 3                        | Final Presentations |
+|  1 |  Tue, January 21               | [Introduction to Data Science] |
+|  2 |  Thu, January 23               | [Simple Data Manipulation] |
+|  3 |  Tue, January 28               | [Data Manipulation & Visualization] |
+|  4 |  Thu, January 30               | [How to Combine DataFrames] |
+|  5 |  Tue, February 4               | [Applied Descriptive Statistics] |
+|  6 |  Thu, February 6               | [Applied Probability to data frame] |
+|  7 |  Tue, February 11              | [NPS Project Data Wrangling Check-in] |
+|  8 |  Thu, February 13              | [PDFs, CDFs, and Normal Distributions] |
+|  9 |  Tue, February 18              | [Hypothesis Testing & Acceptable Error] |
+| 10 |  Thu, February 20              | [Confidence Intervals, Outliers, and Statistical Analysis]|  
+| 11 |  Tue, February 25              | [Time Series Data & Applications]|
+| 12 |  Thu, February 27              | [Lesson 12]|
+| 13 |  Tue, March 3                  | Final Exam |
+| 14 |  Thu, March 5                  | Presentations |
+
 
 [Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
 [Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
