@@ -55,22 +55,36 @@ By the end of this course, students will be able to...
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 [Confidence Intervals, Outliers, and Statistical Analysis]: Notebooks/Outlier_Correlation_StatisticalAnalysis.ipynb
 
+## Assignment Schedule
+
+**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
+
+|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Homework 1 - Histogram](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+
+[Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
+
 ## Class Assignments
 
 - Implement a dataset processing with Numpy only and then Pandas
 - Write a function that calculate conditional probability for two arbitrary attributes and arbitrary condition
 
-## Tutorials
+### Tutorials
 
 Students will complete the following guided tutorials in this course:
 - [Exploratory Data Analysis & Visualization with App Store Dataset](http://make.sc/app-store-dataset)
 - Advanced Data Analysis & Visualization with Pokémon Dataset
 
-## Projects
+### Projects
 
 Students will complete the following self-guided projects in this course:
 - [Make School Summer Academy NPS Data Wrangling & Analysis](http://make.sc/sa-nps-project)
 - Custom Project: Students will select a problem, identify data sources, analyze and present findings
+
 
 ## Evaluation
 
