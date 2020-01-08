@@ -62,12 +62,12 @@ By the end of this course, students will be able to...
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [Homework 1 - Histogram]                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Midterm Project - NPS Data Analysis]                     |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
 [Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
-
+[Midterm Project - NPS Data Analysis] : http://make.sc/sa-nps-project
 ## Class Assignments
 
 - Implement a dataset processing with Numpy only and then Pandas
