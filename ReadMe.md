@@ -66,7 +66,7 @@ By the end of this course, students will be able to...
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
-[Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
+[Homework 1 - Histogram]: https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Homework/HW1_Pandas.ipynb
 
 ## Class Assignments
 
