@@ -61,8 +61,8 @@ By the end of this course, students will be able to...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Histogram]                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Midterm Project - NPS Data Analysis]                     |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Midterm Project - NPS Data Analysis]                     |  Thu, January 30    |  Tue, February 11   | [Submit Assignment](makeschool.com)|
+| [Homework 1 - Histogram]                      |  Thu, February 13  |  Thu, February 20 | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
@@ -91,8 +91,8 @@ Students will complete the following self-guided projects in this course:
 
 To pass this course you must meet the following requirements:
 
-- Do all in-class activities
-- Finish all required tutorials and projects
+- Do all in-class activities and one homework
+- Finish all required tutorials and two projects
 - Pass the final exam (summative assessment). The topics for final exam would be:
   - Null hypothesis, the steps to accept or reject it
   - Statistical terms and meanings such as Z-distribution, CDF, SF, ...
