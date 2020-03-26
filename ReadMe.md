@@ -20,26 +20,26 @@ By the end of this course, students will be able to...
 
 ## Schedule
 
-**Course Dates:** Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
+**Course Dates:** Tuesday, March 31 – Thursday, May 14, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Tuesday and Thursday at 9:30am to 12:15pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, January 21               | [Introduction to Data Science] |
-|  2 |  Thu, January 23               | [Simple Data Manipulation] |
-|  3 |  Tue, January 28               | [Data Manipulation & Visualization] |
-|  4 |  Thu, January 30               | [How to Combine DataFrames] |
-|  5 |  Tue, February 4               | [Applied Descriptive Statistics] |
-|  6 |  Thu, February 6               | [Applied Probability to data frame] |
-|  7 |  Tue, February 11              | [NPS Project Data Wrangling Check-in] |
-|  8 |  Thu, February 13              | [PDFs, CDFs, and Normal Distributions] |
-|  9 |  Tue, February 18              | [Hypothesis Testing & Acceptable Error] |
-| 10 |  Thu, February 20              | [Confidence Intervals, Outliers, and Statistical Analysis]|  
-| 11 |  Tue, February 25              | [Time Series Data & Applications]|
-| 12 |  Thu, February 27              | [Lesson 12]|
-| 13 |  Tue, March 3                  | Final Exam |
-| 14 |  Thu, March 5                  | Presentations |
+|  1 |  Tue, March 31               | [Introduction to Data Science] |
+|  2 |  Thu, April 2               | [Simple Data Manipulation] |
+|  3 |  Tue, April 7               | [Data Manipulation & Visualization] |
+|  4 |  Thu, April 9               | [How to Combine DataFrames] |
+|  5 |  Tue, April 14               | [Applied Descriptive Statistics] |
+|  6 |  Thu, April 16               | [Applied Probability to data frame] |
+|  7 |  Tue, April 21              | [NPS Project Data Wrangling Check-in] |
+|  8 |  Thu, April 23              | [PDFs, CDFs, and Normal Distributions] |
+|  9 |  Tue, April 28              | [Hypothesis Testing & Acceptable Error] |
+| 10 |  Thu, April 30              | [Confidence Intervals, Outliers, and Statistical Analysis]|  
+| 11 |  Tue, May 5              | [Time Series Data & Applications]|
+| 12 |  Thu, May 7              | [Lesson 12]|
+| 13 |  Tue, May 12                  | Final Exam |
+| 14 |  Thu, May 14                  | Presentations |
 
 
 [Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
