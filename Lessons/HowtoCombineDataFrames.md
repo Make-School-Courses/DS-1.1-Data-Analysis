@@ -1,4 +1,4 @@
-# [Slides](../Notebooks/Pandas_Merge_Cooncate.ipynb)
+# [Slides](../Notebooks/Pandas_Merge_Concatenate.ipynb)
 
 ## Learning Objectives
 - How to combine different data-frame
