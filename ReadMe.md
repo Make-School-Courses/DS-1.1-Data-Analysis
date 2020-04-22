@@ -68,6 +68,7 @@ By the end of this course, students will be able to...
 [Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
 [Midterm Project - NPS Data Analysis]: http://make.sc/sa-nps-project
 [Submit Assignment]: https://docs.google.com/spreadsheets/d/1wbNXq_UvPNhA8F39AKPz9SbAn2id9yl3UZsSi4_69aQ/edit#gid=186542430
+
 ## Class Assignments
 
 - Implement a dataset processing with Numpy only and then Pandas
