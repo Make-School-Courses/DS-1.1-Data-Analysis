@@ -70,7 +70,7 @@ By the end of this course, students will be able to...
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [Midterm Project - NPS Data Analysis]                     |  Mon, June 8     |  Fri, June 19   | [Submit Assignment]|
-| [Homework 1 - Histogram]                      |  Wed, June 24    |  Mon, June 29  | [Submit Assignment]  |
+| [Homework 1 - Histogram]                      |  Wed, June 24    |  Wed, July 1  | [Submit Assignment]  |
 
 
 [Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
