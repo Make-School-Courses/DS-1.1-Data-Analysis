@@ -20,26 +20,34 @@ By the end of this course, students will be able to...
 
 ## Schedule
 
-**Course Dates:** Tuesday, March 31 – Thursday, May 14, 2020 (7 weeks)
+**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 9:30am to 12:15pm (14 class sessions)
+**Class Times:** Monday, Wednesday, and Friday at 3:30–5:30 pm (20 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, March 31               | [Introduction to Data Science] |
-|  2 |  Thu, April 2               | [Simple Data Manipulation] |
-|  3 |  Tue, April 7               | [Data Manipulation & Visualization] |
-|  4 |  Thu, April 9               | [How to Combine DataFrames] |
-|  5 |  Tue, April 14               | [Applied Descriptive Statistics] |
-|  6 |  Thu, April 16               | [Applied Probability to data frame] |
-|  7 |  Tue, April 21              | [NPS Project Data Wrangling Check-in] |
-|  8 |  Thu, April 23              | [PDFs, CDFs, and Normal Distributions] |
-|  9 |  Tue, April 28              | [Hypothesis Testing & Acceptable Error] |
-| 10 |  Thu, April 30              | [Confidence Intervals, Outliers, and Statistical Analysis]|  
-| 11 |  Tue, May 5              | [Time Series Data & Applications]|
-| 12 |  Thu, May 7              | [Lesson 12]|
-| 13 |  Tue, May 12                  | Final Exam |
-| 14 |  Thu, May 14                  | Presentations |
+|  1 |  Mon, June 1               | [Introduction to Data Science] |
+|  2 |  Wed, June 3               | [Simple Data Manipulation]|
+|  3 |  Fri, June 5               | Activity Day |
+|  4 |  Mon, June 8               | [Data Manipulation & Visualization] |
+|  5 |  Wed, June 10               | [How to Combine DataFrames] |
+|  6 |  Fri, June 12               | [Activity Day] |
+|  7 |  Mon, June 15               | [Applied Descriptive Statistics] |
+|  8 |  Wed, June 17              | [Applied Probability to data frame] |
+|  9 |  Fri, June 19              | [NPS Project Data Wrangling Check-in] |
+| 10 |  Mon, June 22              | [PDFs, CDFs, and Normal Distributions] |
+| 11 |  Wed, June 24              | [Hypothesis Testing & Acceptable Error] |
+| 12 |  Fri, June 26              | [Activity Day] |
+| 13 |  Mon, June 29              | [Hypothesis Testing & Acceptable Error] II |
+| 14 |  Wed, July 1              | [Activity Day]|  
+| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
+| 15 |  Mon, July 6              | [Confidence Intervals, Outliers, and Statistical Analysis]|
+| 16 |  Wed, July 8                 | [Time Series Data & Applications] |
+| 17 |  Fri, July 10                  | [Catch Up Day] |
+| 18 |  Mon, July 13                  | [Final Exam] |
+| 19 |  Wed, July 15                 | [Final Presentation] |
+| 20 |  Fri, July 17                 | Wrap Up |
+
 
 
 [Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
@@ -61,8 +69,8 @@ By the end of this course, students will be able to...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Midterm Project - NPS Data Analysis]                     |  Tue, April 7    |  Tue, April 21    | [Submit Assignment]|
-| [Homework 1 - Histogram]                      |  Thu, April 23  |  Thu, April 30 | [Submit Assignment]  |
+| [Midterm Project - NPS Data Analysis]                     |  Mon, June 8     |  Fri, June 19   | [Submit Assignment]|
+| [Homework 1 - Histogram]                      |  Wed, June 24    |  Mon, June 29  | [Submit Assignment]  |
 
 
 [Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
