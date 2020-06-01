@@ -65,8 +65,6 @@ By the end of this course, students will be able to...
 
 ## Assignment Schedule
 
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
-
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [Midterm Project - NPS Data Analysis]                     |  Mon, June 8     |  Fri, June 19   | [Submit Assignment]|
