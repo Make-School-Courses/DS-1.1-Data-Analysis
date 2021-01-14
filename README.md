@@ -26,34 +26,26 @@ By the end of this course, students will be able to...
 
 ## Schedule
 
-**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
+**Course Dates:** Tuesday, January 19 – Thursday, March 4, 2021 (7 weeks)
 
-**Class Times:** Monday, Wednesday, and Friday at 3:30–5:30 pm (20 class sessions)
+**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, June 1               | [Introduction to Data Science] |
-|  2 |  Wed, June 3               | [Simple Data Manipulation]|
-|  3 |  Fri, June 5               | Activity Day |
-|  4 |  Mon, June 8               | [Data Manipulation & Visualization] |
-|  5 |  Wed, June 10               | [How to Combine DataFrames] |
-|  6 |  Fri, June 12               | [Activity Day] |
-|  7 |  Mon, June 15               | [Applied Descriptive Statistics] |
-|  8 |  Wed, June 17              | [Applied Probability to data frame] |
-|  9 |  Fri, June 19              | [NPS Project Data Wrangling Check-in] |
-| 10 |  Mon, June 22              | [PDFs, CDFs, and Normal Distributions] |
-| 11 |  Wed, June 24              | [Hypothesis Testing & Acceptable Error] |
-| 12 |  Fri, June 26              | [Activity Day] |
-| 13 |  Mon, June 29              | [Hypothesis Testing & Acceptable Error] II |
-| 14 |  Wed, July 1              | [Activity Day]|  
-| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
-| 15 |  Mon, July 6              | [Confidence Intervals, Outliers, and Statistical Analysis]|
-| 16 |  Wed, July 8                 | [Time Series Data & Applications] |
-| 17 |  Fri, July 10                  | [Catch Up Day] |
-| 18 |  Mon, July 13                  | [Final Exam] |
-| 19 |  Wed, July 15                 | [Final Presentation] |
-| 20 |  Fri, July 17                 | Wrap Up |
-
+| Class |          Date          |                 Topics                  | Assignments and Quizzes |
+|:-----:|:----------------------:|:---------------------------------------:|:------:|
+|  - |  Tue, Jan 19               | **No Class - MLK Day** |
+|  1 |  Thu, Jan 21               | [Introduction to Data Science] |
+|  2 |  Tue, Jan 26               | [Simple Data Manipulation] |
+|  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] |
+|  4 |  Tue, Feb 2                | [Applied Descriptive Statistics] |
+|  5 |  Thu, Feb 4                | [Applied Probability to data frame] |
+|  6 |  Tue, Feb 9               | [PDFs, CDFs, and Normal Distributions] |
+|  7 |  Thu, Feb 11               | [Hypothesis Testing & Acceptable Error] |
+|  8 |  Tue, Feb 16               | [Hypothesis Testing & Acceptable Error] II |
+|  9 |  Thu, Feb 18               | [Confidence Intervals, Outliers, and Statistical Analysis] |
+| 10 |  Tue, Feb 23               | [Intro to Machine Learning Models] |
+| 11 |  Thu, Feb 25                | [Foundational Machine Learning Pipeline] |
+| 12 |  Tue, Mar 2                | Lab Day | 
+| 13 |  Tue, Mar 4                | Final Presentations | 
 
 
 [Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
@@ -68,36 +60,6 @@ By the end of this course, students will be able to...
 [Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 [Confidence Intervals, Outliers, and Statistical Analysis]: Notebooks/Outlier_Correlation_StatisticalAnalysis.ipynb
-
-## Assignment Schedule
-
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Midterm Project - NPS Data Analysis]                     |  Mon, June 8     |  Fri, June 19   | [Submit Assignment]|
-| [Homework 1 - Histogram]                      |  Wed, June 24    |  Wed, July 1  | [Submit Assignment]  |
-
-
-[Homework 1 - Histogram]: ./Homework/HW1_Pandas.ipynb
-[Midterm Project - NPS Data Analysis]: http://make.sc/sa-nps-project
-[Submit Assignment]: https://docs.google.com/spreadsheets/d/1wbNXq_UvPNhA8F39AKPz9SbAn2id9yl3UZsSi4_69aQ/edit#gid=186542430
-
-## Class Assignments
-
-- Implement a dataset processing with Numpy only and then Pandas
-- Write a function that calculate conditional probability for two arbitrary attributes and arbitrary condition
-
-### Tutorials
-
-Students will complete the following guided tutorials in this course:
-- [Exploratory Data Analysis & Visualization with App Store Dataset](http://make.sc/app-store-dataset)
-- Advanced Data Analysis & Visualization with Pokémon Dataset
-
-### Projects
-
-Students will complete the following self-guided projects in this course:
-- [Make School Summer Academy NPS Data Wrangling & Analysis](http://make.sc/sa-nps-project)
-- Custom Project: Students will select a problem, identify data sources, analyze and present findings
-
 
 
 ## Evaluation
