@@ -35,14 +35,14 @@ By the end of this course, students will be able to...
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
 |  1 |  Thu, Jan 21               | [Introduction to Data Science] |
 |  2 |  Tue, Jan 26               | [Simple Data Manipulation] |
-|  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] |
+|  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] | Released: Quiz 1
 |  4 |  Tue, Feb 2                | [Applied Descriptive Statistics] |
 |  5 |  Thu, Feb 4                | [Applied Probability to data frame] |
-|  6 |  Tue, Feb 9               | [PDFs, CDFs, and Normal Distributions] |
-|  7 |  Thu, Feb 11               | [Hypothesis Testing & Acceptable Error] |
+|  6 |  Tue, Feb 9               | [PDFs, CDFs, and Normal Distributions] | 
+|  7 |  Thu, Feb 11               | [Hypothesis Testing & Acceptable Error] | Released: Quiz 2
 |  8 |  Tue, Feb 16               | [Hypothesis Testing & Acceptable Error] II |
 |  9 |  Thu, Feb 18               | [Confidence Intervals, Outliers, and Statistical Analysis] |
-| 10 |  Tue, Feb 23               | [Intro to Machine Learning Models] |
+| 10 |  Tue, Feb 23               | [Intro to Machine Learning Models] | Released: Quiz 3
 | 11 |  Thu, Feb 25                | [Foundational Machine Learning Pipeline] |
 | 12 |  Tue, Mar 2                | Lab Day | 
 | 13 |  Tue, Mar 4                | Final Presentations | 
@@ -61,19 +61,25 @@ By the end of this course, students will be able to...
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 [Confidence Intervals, Outliers, and Statistical Analysis]: Notebooks/Outlier_Correlation_StatisticalAnalysis.ipynb
 
+## Assignment Submissions
+
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Do all in-class activities and one homework
-- Finish all required tutorials and two projects
-- Pass the final exam (summative assessment). The topics for final exam would be:
-  - Null hypothesis, the steps to accept or reject it
-  - Statistical terms and meanings such as Z-distribution, CDF, SF, ...
-  - Histogram, density estimations
-  - Outlier detection
-  - Correlation
+- Complete all assignments and quizzes (one assignment or quiz will be dropped)
+- Pass all assignments according to the associated assignment rubric 
+- Pass all quizzes with a score 70% or higher 
+- If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
+- Actively participate in class and abide by the attendance policy
+- Make up all classwork from all absences
 
 ##  Information Resources
 
