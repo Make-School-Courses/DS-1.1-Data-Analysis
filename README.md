@@ -60,6 +60,8 @@ By the end of this course, students will be able to...
 [Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 [Confidence Intervals, Outliers, and Statistical Analysis]: Notebooks/Outlier_Correlation_StatisticalAnalysis.ipynb
+[Intro to Machine Learning Models]: Lessons/IntroductionMachineLearning.md
+[Foundational Machine Learning Pipeline]: Lessons/MachineLearningPipeline.md
 
 ## Assignment Submissions
 
