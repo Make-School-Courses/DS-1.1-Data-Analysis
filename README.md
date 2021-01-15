@@ -33,17 +33,17 @@ By the end of this course, students will be able to...
 | Class |          Date          |                 Topics                  | Assignments and Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Thu, Jan 21               | [Introduction to Data Science] |
-|  2 |  Tue, Jan 26               | [Simple Data Manipulation] |
-|  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] | Released: Quiz 1
-|  4 |  Tue, Feb 2                | [Applied Descriptive Statistics] | Due: Data Visualization Challenge
-|  5 |  Thu, Feb 4                | [Applied Probability to data frame] |
-|  6 |  Tue, Feb 9               | [PDFs, CDFs, and Normal Distributions] | 
-|  7 |  Thu, Feb 11               | [Hypothesis Testing & Acceptable Error] | Released: Quiz 2
-|  8 |  Tue, Feb 16               | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge
-|  9 |  Thu, Feb 18               | [Confidence Intervals, Outliers, and Statistical Analysis] |
-| 10 |  Tue, Feb 23               | [Intro to Machine Learning Models] | Released: Quiz 3
-| 11 |  Thu, Feb 25                | [Foundational Machine Learning Pipeline] |
+|  1 |  Thu, Jan 21               | Introduction to Data Science |
+|  2 |  Tue, Jan 26               | Simple Data Manipulation |
+|  3 |  Thu, Jan 28                | Data Manipulation & Visualization | Released: Quiz 1
+|  4 |  Tue, Feb 2                | Applied Descriptive Statistics | Due: Data Visualization Challenge
+|  5 |  Thu, Feb 4                | Applied Probability to data frame |
+|  6 |  Tue, Feb 9               | PDFs, CDFs, and Normal Distributions | 
+|  7 |  Thu, Feb 11               | Hypothesis Testing & Acceptable Error | Released: Quiz 2
+|  8 |  Tue, Feb 16               | Hypothesis Testing & Acceptable Error II | Due: Applied Probability and Statistics Challenge
+|  9 |  Thu, Feb 18               | Confidence Intervals, Outliers, and Statistical Analysis |
+| 10 |  Tue, Feb 23               | Intro to Machine Learning Models | Released: Quiz 3
+| 11 |  Thu, Feb 25                | Foundational Machine Learning Pipeline |
 | 12 |  Tue, Mar 2                | Lab Day | 
 | 13 |  Tue, Mar 4                | Final Presentations | Due: Machine Learning Challenge
 
