@@ -33,7 +33,7 @@ By the end of this course, students will be able to...
 | Class |          Date          |                 Topics                  | Assignments and Quizzes |
 |:-----:|:----------------------:|:---------------------------------------:|:------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Thu, Jan 21               | Introduction to Data Science |
+|  1 |  Thu, Jan 21               | [Introduction to Data Science] |
 |  2 |  Tue, Jan 26               | Simple Data Manipulation |
 |  3 |  Thu, Jan 28                | Data Manipulation & Visualization | Released: Quiz 1
 |  4 |  Tue, Feb 2                | Applied Descriptive Statistics | Due: Data Visualization Challenge
@@ -48,7 +48,7 @@ By the end of this course, students will be able to...
 | 13 |  Tue, Mar 4                | Final Presentations | Due: Machine Learning Challenge
 
 
-[Introduction to Data Science]: Lessons/IntroductiontoDataScience.md
+[Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
 [Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
 [Data Manipulation & Visualization]: Lessons/DataManipulationVisualization.md
 [How to Combine DataFrames]: Lessons/HowtoCombineDataFrames.md
