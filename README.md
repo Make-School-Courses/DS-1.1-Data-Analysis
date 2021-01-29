@@ -34,11 +34,11 @@ By the end of this course, students will be able to...
 |:-----:|:----------------------:|:---------------------------------------:|:------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
 |  1 |  Thu, Jan 21               | [Introduction to Data Science] |
-|  2 |  Tue, Jan 26               | Simple Data Manipulation |
+|  2 |  Tue, Jan 26               | [Simple Data Manipulation] |
 |  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] | Released: Quiz 1
-|  4 |  Tue, Feb 2                | Applied Descriptive Statistics | Due: Data Visualization Challenge
+|  4 |  Tue, Feb 2                | Applied Descriptive Statistics | 
 |  5 |  Thu, Feb 4                | Applied Probability to data frame |
-|  6 |  Tue, Feb 9               | PDFs, CDFs, and Normal Distributions | 
+|  6 |  Tue, Feb 9               | PDFs, CDFs, and Normal Distributions | Due: Data Visualization Challenge
 |  7 |  Thu, Feb 11               | Hypothesis Testing & Acceptable Error | Released: Quiz 2
 |  8 |  Tue, Feb 16               | Hypothesis Testing & Acceptable Error II | Due: Applied Probability and Statistics Challenge
 |  9 |  Thu, Feb 18               | Confidence Intervals, Outliers, and Statistical Analysis |
@@ -49,7 +49,7 @@ By the end of this course, students will be able to...
 
 
 [Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
-[Simple Data Manipulation]: Lessons/SimpleDataManipulation.md
+[Simple Data Manipulation]: https://colab.research.google.com/drive/1_q_QyrudzFx9vN1zz88bbj2hrUmPWm4S#scrollTo=LDlS1-z-vvvZ
 [Data Manipulation & Visualization]: https://colab.research.google.com/drive/1CoWWKCFONGr3qnozY4vzeZA1PFlPQ85-#scrollTo=SGWu6GoYeqpB
 [How to Combine DataFrames]: Lessons/HowtoCombineDataFrames.md
 [Applied Descriptive Statistics]: Lessons/AppliedDescriptiveStatistics.md
