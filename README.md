@@ -36,7 +36,7 @@ By the end of this course, students will be able to...
 |  1 |  Thu, Jan 21               | [Introduction to Data Science] |
 |  2 |  Tue, Jan 26               | [Simple Data Manipulation] |
 |  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] | Released: Quiz 1
-|  4 |  Tue, Feb 2                | Applied Descriptive Statistics | 
+|  4 |  Tue, Feb 2                | [Applied Descriptive Statistics] | 
 |  5 |  Thu, Feb 4                | Applied Probability to data frame |
 |  6 |  Tue, Feb 9               | PDFs, CDFs, and Normal Distributions | Due: Data Visualization Challenge
 |  7 |  Thu, Feb 11               | Hypothesis Testing & Acceptable Error | Released: Quiz 2
@@ -52,8 +52,8 @@ By the end of this course, students will be able to...
 [Simple Data Manipulation]: https://colab.research.google.com/drive/1_q_QyrudzFx9vN1zz88bbj2hrUmPWm4S#scrollTo=LDlS1-z-vvvZ
 [Data Manipulation & Visualization]: https://colab.research.google.com/drive/1CoWWKCFONGr3qnozY4vzeZA1PFlPQ85-#scrollTo=SGWu6GoYeqpB
 [How to Combine DataFrames]: Lessons/HowtoCombineDataFrames.md
-[Applied Descriptive Statistics]: Lessons/AppliedDescriptiveStatistics.md
-[Applied Probability to data frame]: Lessons/AppliedProbabilitytodataframe.md
+[Applied Descriptive Statistics]: https://colab.research.google.com/drive/1bs0PetwVS-mufkV8Z8BjMS8kuRB-62Qx#scrollTo=axOCXi2mfNpj
+[Applied Probability to data frame]: https://colab.research.google.com/drive/1M5NWA82Cu5rsh4dui4t984w2I2I3_iOL
 [PDFs, CDFs, and Normal Distributions]: Notebooks/PDF_CDF_Normal.ipynb
 [Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
