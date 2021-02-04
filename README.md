@@ -37,7 +37,7 @@ By the end of this course, students will be able to...
 |  2 |  Tue, Jan 26               | [Simple Data Manipulation] |
 |  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] | Released: Quiz 1
 |  4 |  Tue, Feb 2                | [Applied Descriptive Statistics] | 
-|  5 |  Thu, Feb 4                | Applied Probability to data frame |
+|  5 |  Thu, Feb 4                | [Applied Probability to data frame] |
 |  6 |  Tue, Feb 9               | PDFs, CDFs, and Normal Distributions | Due: Data Visualization Challenge
 |  7 |  Thu, Feb 11               | Hypothesis Testing & Acceptable Error | Released: Quiz 2
 |  8 |  Tue, Feb 16               | Hypothesis Testing & Acceptable Error II | Due: Applied Probability and Statistics Challenge
