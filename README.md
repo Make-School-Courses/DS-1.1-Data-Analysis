@@ -39,7 +39,7 @@ By the end of this course, students will be able to...
 |  4 |  Tue, Feb 2                | [Applied Descriptive Statistics] | 
 |  5 |  Thu, Feb 4                | [Applied Probability to data frame] |
 |  6 |  Tue, Feb 9               | [PDFs, CDFs, and Normal Distributions] | Due: Data Visualization Challenge
-|  7 |  Thu, Feb 11               | Hypothesis Testing & Acceptable Error | Released: Quiz 2
+|  7 |  Thu, Feb 11               | [Hypothesis Testing & Acceptable Error] | Released: Quiz 2
 |  8 |  Tue, Feb 16               | Hypothesis Testing & Acceptable Error II | Due: Applied Probability and Statistics Challenge
 |  9 |  Thu, Feb 18               | Confidence Intervals, Outliers, and Statistical Analysis |
 | 10 |  Tue, Feb 23               | Intro to Machine Learning Models | Released: Quiz 3
@@ -55,7 +55,7 @@ By the end of this course, students will be able to...
 [Applied Descriptive Statistics]: https://colab.research.google.com/drive/1bs0PetwVS-mufkV8Z8BjMS8kuRB-62Qx#scrollTo=axOCXi2mfNpj
 [Applied Probability to data frame]: https://colab.research.google.com/drive/1M5NWA82Cu5rsh4dui4t984w2I2I3_iOL
 [PDFs, CDFs, and Normal Distributions]: https://colab.research.google.com/drive/14nfxdp5cV-LSUqlV-1BQNlVUL9M1H_ff
-[Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
+[Hypothesis Testing & Acceptable Error]: https://colab.research.google.com/drive/1MmqDYm_M6rqBzMYjyuqwRcSVoVTwxozb
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
 [Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
