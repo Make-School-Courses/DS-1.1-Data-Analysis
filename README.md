@@ -42,7 +42,7 @@ By the end of this course, students will be able to...
 |  7 |  Thu, Feb 11               | [Hypothesis Testing & Acceptable Error] | Released: Quiz 2
 |  8 |  Tue, Feb 16               | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge
 |  9 |  Thu, Feb 18               | [Confidence Intervals, Outliers, and Statistical Analysis] |
-| 10 |  Tue, Feb 23               | Intro to Machine Learning Models | Released: Quiz 3
+| 10 |  Tue, Feb 23               | [Intro to Machine Learning Models] | Released: Quiz 3
 | 11 |  Thu, Feb 25                | Foundational Machine Learning Pipeline |
 | 12 |  Tue, Mar 2                | Lab Day | 
 | 13 |  Tue, Mar 4                | Final Presentations | Due: Machine Learning Challenge
@@ -60,7 +60,7 @@ By the end of this course, students will be able to...
 [Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 [Confidence Intervals, Outliers, and Statistical Analysis]: https://colab.research.google.com/drive/1uzeep-pMgz2U5Xo1TC4p_67aX57CJ1hO
-[Intro to Machine Learning Models]: Lessons/IntroductionMachineLearning.md
+[Intro to Machine Learning Models]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
 [Foundational Machine Learning Pipeline]: Lessons/MachineLearningPipeline.md
 
 ## Assignment Submissions
