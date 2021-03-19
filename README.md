@@ -18,12 +18,10 @@ In this course, students learn the foundational skills of data science, includin
 
 By the end of this course, students will be able to...
 
-1. Conduct data manipulation and visualization
+1. Perform exploratory data analysis and visualization of a data set using histograms, correlations and other mathematical tools
 1. Understand when to reject or accept a null hypothesis
-1. Apply descriptive statistics, probability, and other forms of data analysis techniques
-1. Perform exploratory data analysis of a data set using histograms, correlations and other mathematical tools
 1. Describe and implement a plan for cleaning a data set, by finding and replacing null values and outliers
-1. Understand simple probability distributions and confidence intervals
+1. Understand descriptive statistics, simple probability distributions and confidence intervals
 1. Implement a machine learning pipeline for a simple model
 
 ## Schedule
