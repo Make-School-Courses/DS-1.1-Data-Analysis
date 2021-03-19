@@ -23,7 +23,6 @@ By the end of this course, students will be able to...
 1. Apply descriptive statistics, probability, and other forms of data analysis techniques
 1. Perform exploratory data analysis of a data set using histograms, correlations and other mathematical tools
 1. Describe and implement a plan for cleaning a data set, by finding and replacing null values and outliers
-1. Perform statistical analysis on data collections using a variety of methods
 1. Understand simple probability distributions and confidence intervals
 1. Implement a machine learning pipeline for a simple model
 
