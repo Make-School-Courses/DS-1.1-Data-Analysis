@@ -21,32 +21,34 @@ By the end of this course, students will be able to...
 1. Conduct data manipulation and visualization
 1. Understand when to reject or accept a null hypothesis
 1. Apply descriptive statistics, probability, and other forms of data analysis techniques
-1. Describe and implement a plan for finding and dealing with problems in a dataset such as null values and outliers
+1. Perform exploratory data analysis of a data set using histograms, correlations and other mathematical tools
+1. Describe and implement a plan for cleaning a data set, by finding and replacing null values and outliers
 1. Perform statistical analysis on data collections using a variety of methods
+1. Understand simple probability distributions and confidence intervals
+1. Implement a machine learning pipeline for a simple model
 
 ## Schedule
 
-**Course Dates:** Tuesday, January 19 – Thursday, March 4, 2021 (7 weeks)
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  | Assignments and Quizzes |
-|:-----:|:----------------------:|:---------------------------------------:|:------:|
-|  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Thu, Jan 21               | [Introduction to Data Science] |
-|  2 |  Tue, Jan 26               | [Simple Data Manipulation] |
-|  3 |  Thu, Jan 28                | [Data Manipulation & Visualization] | Released: Quiz 1
-|  4 |  Tue, Feb 2                | [Applied Descriptive Statistics] | 
-|  5 |  Thu, Feb 4                | [Applied Probability to data frame] |
-|  6 |  Tue, Feb 9               | [PDFs, CDFs, and Normal Distributions] | Due: Data Visualization Challenge
-|  7 |  Thu, Feb 11               | [Hypothesis Testing & Acceptable Error] | Released: Quiz 2
-|  8 |  Tue, Feb 16               | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge
-|  9 |  Thu, Feb 18               | [Confidence Intervals, Outliers, and Statistical Analysis] |
-| 10 |  Tue, Feb 23               | [Intro to Machine Learning Models] | Released: Quiz 3
-| 11 |  Thu, Feb 25                | Foundational Machine Learning Pipeline |
-| 12 |  Tue, Mar 2                | Lab Day | 
-| 13 |  Tue, Mar 4                | Final Presentations | Due: Machine Learning Challenge
-
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Tue, Mar 30                | [Introduction to Data Science] |
+|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |
+|  2 |  Tue, Apr 6                 | [Simple Data Manipulation] |
+|  3 |  Thu, Apr 8                 | [Data Manipulation & Visualization] | Released: Quiz 1
+|  4 |  Tue, Apr 13                | [Applied Descriptive Statistics] |
+|  5 |  Thu, Apr 15                | [Applied Probability to data frame] |
+|  6 |  Tue, Apr 20                | [PDFs, CDFs, and Normal Distributions] | Due: Data Visualization Challenge
+|  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error] | Released: Quiz 2
+|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge
+|  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |
+| 10 |  Tue, May 4                 | [Intro to Machine Learning Models] | Released: Quiz 3
+| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] |
+| 12 |  Tue, May 11                | [Lab Day] |
+| 13 |  Thu, May 13                | [Final Presentations] | Due: Machine Learning Challenge
 
 [Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
 [Simple Data Manipulation]: https://colab.research.google.com/drive/1_q_QyrudzFx9vN1zz88bbj2hrUmPWm4S#scrollTo=LDlS1-z-vvvZ
@@ -77,8 +79,8 @@ Your Gradescope login is your Make School email, and your password can be change
 To pass this course you must meet the following requirements:
 
 - Complete all assignments and quizzes (one assignment or quiz will be dropped)
-- Pass all assignments according to the associated assignment rubric 
-- Pass all quizzes with a score 70% or higher 
+- Pass all assignments according to the associated assignment rubric
+- Pass all quizzes with a score 70% or higher
 - If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
@@ -97,6 +99,7 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [For Academic Accommodations, complete this intake form](https://goo.gl/forms/cbfEaxLkutwsYRHo1)
+- [For Services and accommodations we provide for students, contact Dr. Michelle Lessly Blackburn, Director of Student Affairs](michelle.blackburn@makeschool.com)
 - [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
