@@ -87,6 +87,8 @@ To pass this course you must meet the following requirements:
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
 - [make.sc/library](http://make.sc/library)
+- [Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
+
 
 ## Make School Course Policies
 
