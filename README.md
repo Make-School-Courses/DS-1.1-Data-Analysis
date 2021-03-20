@@ -17,7 +17,7 @@ In this course, students learn the foundational skills of data science, includin
 The skill set gained in this course will jump start your career as Data Scientist, Data Engineer or Data Analyst, if that is your goal. If you are a Software Engineer, these skills will enable you to effectively interface with Data Scientists on your team.
 
 
-## Prerequisites:  
+## Prerequisites
 
 [CS 1.2](https://github.com/Make-School-Courses/CS-1.2-How-Data-Structures-Work)
 
