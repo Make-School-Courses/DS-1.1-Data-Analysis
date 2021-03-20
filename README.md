@@ -4,16 +4,18 @@
   </a>
 </p>
 
-# DS 1.1: Data Analysis & Visualization
+# DS 1.1 Data Analysis & Visualization
 
 
 ## Course Description
 
 In this course, students learn the foundational skills of data science, including data collection, scrubbing, analysis, and visualization with modern tools and libraries. Students gain a strong grounding in statistical concepts, utilize statistical techniques and master the science and art of data exploration and visualization to tell stories and persuade decision makers with data-driven insights.
 
+
 ### Why should I take this course?
 
 The skill set gained in this course will jump start your career as Data Scientist, Data Engineer or Data Analyst, if that is your goal. If you are a Software Engineer, these skills will enable you to effectively interface with Data Scientists on your team.
+
 
 ## Prerequisites:  
 
@@ -26,22 +28,25 @@ The skill set gained in this course will jump start your career as Data Scientis
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
+
 ## Learning Outcomes
 
 By the end of this course, students will be able to...
 
 1. Perform exploratory data analysis and visualization of a data set using histograms, correlations and other mathematical tools
-1. Carry out hypothesis tests, and understand when to reject or accept a null hypothesis
-1. Describe and implement a plan for cleaning a data set, by finding and replacing null values and outliers
 1. Understand and use descriptive statistics, probability distributions and confidence intervals
+1. Carry out hypothesis tests, and understand when to reject or accept a null hypothesis
+1. Describe and implement a plan for cleaning and standardizing a data set
 1. Implement a machine learning pipeline for a simple model
+
 
 ## Schedule
 
 **Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
-
+<!-- tabs:start -->
+<!-- omit in toc -->
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, Mar 30                | [Introduction to Data Science] |
@@ -58,6 +63,10 @@ By the end of this course, students will be able to...
 | 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] |
 | 12 |  Tue, May 11                | [Lab Day] |
 | 13 |  Thu, May 13                | [Final Presentations] | Due: Machine Learning Challenge
+<!-- tabs:end -->
+
+
+## Lessons
 
 [Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
 [Simple Data Manipulation]: https://colab.research.google.com/drive/1_q_QyrudzFx9vN1zz88bbj2hrUmPWm4S#scrollTo=LDlS1-z-vvvZ
@@ -73,6 +82,7 @@ By the end of this course, students will be able to...
 [Confidence Intervals, Outliers, and Statistical Analysis]: https://colab.research.google.com/drive/1uzeep-pMgz2U5Xo1TC4p_67aX57CJ1hO
 [Intro to Machine Learning Models]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
 [Foundational Machine Learning Pipeline]: Lessons/MachineLearningPipeline.md
+
 
 ## Assignment Submissions
 
@@ -93,6 +103,15 @@ To pass this course you must meet the following requirements:
 - If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+
+
+## Data Science Technical Interview Topics Covered in this course
+
+- Data Exploration
+- Data Visualization
+- Data Cleaning
+- Data Preprocessing
+
 
 ##  Information Resources
 
