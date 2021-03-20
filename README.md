@@ -1,12 +1,24 @@
+<p align="center">
+  <a href="https://www.makeschool.com">
+      <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
+  </a>
+</p>
+
 # DS 1.1: Data Analysis & Visualization
+
 
 ## Course Description
 
 In this course, students learn the foundational skills of data science, including data collection, scrubbing, analysis, and visualization with modern tools and libraries. Students gain a strong grounding in statistical concepts, utilize statistical techniques and master the science and art of data exploration and visualization to tell stories and persuade decision makers with data-driven insights.
 
+### Why should I take this course?
+
+The skill set gained in this course will jump start your career as Data Scientist, Data Engineer or Data Analyst, if that is your goal. If you are a Software Engineer, these skills will enable you to effectively interface with Data Scientists on your team.
+
 ## Prerequisites:  
 
 [CS 1.2](https://github.com/Make-School-Courses/CS-1.2-How-Data-Structures-Work)
+
 
 ## Course Specifics
 
@@ -19,9 +31,9 @@ In this course, students learn the foundational skills of data science, includin
 By the end of this course, students will be able to...
 
 1. Perform exploratory data analysis and visualization of a data set using histograms, correlations and other mathematical tools
-1. Understand when to reject or accept a null hypothesis
+1. Carry out hypothesis tests, and understand when to reject or accept a null hypothesis
 1. Describe and implement a plan for cleaning a data set, by finding and replacing null values and outliers
-1. Understand descriptive statistics, simple probability distributions and confidence intervals
+1. Understand and use descriptive statistics, probability distributions and confidence intervals
 1. Implement a machine learning pipeline for a simple model
 
 ## Schedule
