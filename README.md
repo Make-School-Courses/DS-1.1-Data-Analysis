@@ -128,6 +128,6 @@ To pass this course you must meet the following requirements:
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [For Academic Accommodations, complete this intake form](https://goo.gl/forms/cbfEaxLkutwsYRHo1)
-- [For Services and accommodations we provide for students, contact Dr. Michelle Lessly Blackburn, Director of Student Affairs michelle.blackburn@makeschool.com]
+- For Services and accommodations we provide for students, contact Dr. Michelle Lessly Blackburn, Director of Student Affairs michelle.blackburn@makeschool.com
 - [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
