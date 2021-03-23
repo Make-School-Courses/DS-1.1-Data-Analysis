@@ -78,7 +78,7 @@ By the end of this course, students will be able to...
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 [Confidence Intervals, Outliers, and Statistical Analysis]: https://colab.research.google.com/drive/1uzeep-pMgz2U5Xo1TC4p_67aX57CJ1hO
 [Intro to Machine Learning Models]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
-[Foundational Machine Learning Pipeline](https://github.com/jcatanza/good_wines_bad_wines):
+[Foundational Machine Learning Pipeline]: https://github.com/jcatanza/good_wines_bad_wines
 
 
 ## Assignment Submissions
