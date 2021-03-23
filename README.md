@@ -52,15 +52,15 @@ By the end of this course, students will be able to...
 |  1 |  Tue, Mar 30                | [Introduction to Data Science]        |                                         |
 |  - |  Thu, Apr 1                 | **No Class - Cesar Chavez**           |                                         |
 |  2 |  Tue, Apr 6                 | [Simple Data Manipulation]            |                                         |
-|  3 |  Thu, Apr 8                 | [Data Manipulation & Visualization]   |                                         |
-|  4 |  Tue, Apr 13                | [Applied Descriptive Statistics]      | Quiz #1: Data Manipulation               |
-|  5 |  Thu, Apr 15                | [Applied Probability to data frame]   |                                         |
-|  6 |  Tue, Apr 20                | [PDFs, CDFs, and Normal Distributions]| Due: Data Visualization Challenge       |
-|  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error] | Quiz #2: Statistics, Probability and Distributions         |
-|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge       |
-|  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |                                         |
-| 10 |  Tue, May 4                 | [Intro to Machine Learning Models] | Quiz #3: Hypothesis Testing, Confidence Intervals, and Outliers |
-| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] |                                                           |
+|  3 |  Thu, Apr 8                 | [Data Manipulation & Visualization]   | Quiz #1: Data Manipulation              |
+|  4 |  Tue, Apr 13                | [Applied Descriptive Statistics]      |                                         |
+|  5 |  Thu, Apr 15                | [Applied Probability to data frame]   | Due: Data Visualization Challenge       |
+|  6 |  Tue, Apr 20                | [PDFs, CDFs, and Normal Distributions]|                                         |
+|  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error I]  | Quiz #2: Statistics, Probability and Distributions                 |
+|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error II] |                                    |
+|  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |Due: Applied Probability and Statistics Challenge   |
+| 10 |  Tue, May 4                 | [Intro to Machine Learning Models] |                                            |
+| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] | Quiz #3: Hypothesis Testing, Confidence Intervals, and Outliers|
 | 12 |  Tue, May 11                | [Lab Day]                              |                                                             |
 | 13 |  Thu, May 13                | [Final Presentations]                  | Due: Machine Learning Challenge                             |
 <!-- tabs:end -->
