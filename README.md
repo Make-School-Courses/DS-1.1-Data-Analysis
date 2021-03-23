@@ -60,7 +60,7 @@ By the end of this course, students will be able to...
 |  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge       |
 |  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |                                         |
 | 10 |  Tue, May 4                 | [Intro to Machine Learning Models] | Quiz #3: Hypothesis Testing, Confidence Intervals, and Outliers |
-| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] |                                                           |
+| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline](https://github.com/jcatanza/good_wines_bad_wines) |                                                           |
 | 12 |  Tue, May 11                | [Lab Day]                              |                                                             |
 | 13 |  Thu, May 13                | [Final Presentations]                  | Due: Machine Learning Challenge                             |
 <!-- tabs:end -->
