@@ -56,8 +56,8 @@ By the end of this course, students will be able to...
 |  4 |  Tue, Apr 13                | [Applied Descriptive Statistics]      |                                         |
 |  5 |  Thu, Apr 15                | [Applied Probability to data frame]   | Due: Data Visualization Challenge       |
 |  6 |  Tue, Apr 20                | [PDFs, CDFs, and Normal Distributions]|                                         |
-|  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error I]  | Quiz #2: Statistics, Probability and Distributions                 |
-|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error II] |                                    |
+|  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error]  | Quiz #2: Statistics, Probability and Distributions                 |
+|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error]  |                                    |
 |  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |Due: Applied Probability and Statistics Challenge   |
 | 10 |  Tue, May 4                 | [Intro to Machine Learning Models] |                                            |
 | 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] | Quiz #3: Hypothesis Testing, Confidence Intervals, and Outliers|
