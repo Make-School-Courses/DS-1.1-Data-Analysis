@@ -108,6 +108,14 @@ To pass this course you must meet the following requirements:
 - Data Visualization
 - Data Cleaning
 - Data Preprocessing
+- Probability distributions
+- Applied Probability and statistics
+- Hypothesis Testing
+- Outlier identification
+- Confidence intervals
+- Machine Learning Model
+- Machine Learning Pipeline
+
 
 
 ##  Information Resources
