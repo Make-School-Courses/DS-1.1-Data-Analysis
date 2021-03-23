@@ -47,26 +47,23 @@ By the end of this course, students will be able to...
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 <!-- tabs:start -->
 <!-- omit in toc -->
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Mar 30                | [Introduction to Data Science] |
-|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |
-|  2 |  Tue, Apr 6                 | [Simple Data Manipulation] |
-|  3 |  Thu, Apr 8                 | [Data Manipulation & Visualization] | Released: Quiz 1
-|  4 |  Tue, Apr 13                | [Applied Descriptive Statistics] |
-|  5 |  Thu, Apr 15                | [Applied Probability to data frame] |
-|  6 |  Tue, Apr 20                | [PDFs, CDFs, and Normal Distributions] | Due: Data Visualization Challenge
-|  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error] | Released: Quiz 2
-|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge
-|  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |
-| 10 |  Tue, May 4                 | [Intro to Machine Learning Models] | Released: Quiz 3
-| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] |
-| 12 |  Tue, May 11                | [Lab Day] |
-| 13 |  Thu, May 13                | [Final Presentations] | Due: Machine Learning Challenge
+| Class |          Date          |                 Topics                  |Assignments and Quizzes|
+|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
+|  1 |  Tue, Mar 30                | [Introduction to Data Science]        |                                         |
+|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez**           |                                         |
+|  2 |  Tue, Apr 6                 | [Simple Data Manipulation]            |                                         |
+|  3 |  Thu, Apr 8                 | [Data Manipulation & Visualization]   |                                         |
+|  4 |  Tue, Apr 13                | [Applied Descriptive Statistics]      | Quiz #1: Data Manipulation               |
+|  5 |  Thu, Apr 15                | [Applied Probability to data frame]   |                                         |
+|  6 |  Tue, Apr 20                | [PDFs, CDFs, and Normal Distributions]| Due: Data Visualization Challenge       |
+|  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error] | Quiz #2: Statistics, Probability and Distributions         |
+|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error] II | Due: Applied Probability and Statistics Challenge       |
+|  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |                                         |
+| 10 |  Tue, May 4                 | [Intro to Machine Learning Models] | Quiz #3: Hypothesis Testing, Confidence Intervals, and Outliers |
+| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] |                                                           |
+| 12 |  Tue, May 11                | [Lab Day]                              |                                                             |
+| 13 |  Thu, May 13                | [Final Presentations]                  | Due: Machine Learning Challenge                             |
 <!-- tabs:end -->
-
-
-## Lessons
 
 [Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
 [Simple Data Manipulation]: https://colab.research.google.com/drive/1_q_QyrudzFx9vN1zz88bbj2hrUmPWm4S#scrollTo=LDlS1-z-vvvZ
@@ -81,7 +78,7 @@ By the end of this course, students will be able to...
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 [Confidence Intervals, Outliers, and Statistical Analysis]: https://colab.research.google.com/drive/1uzeep-pMgz2U5Xo1TC4p_67aX57CJ1hO
 [Intro to Machine Learning Models]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
-[Foundational Machine Learning Pipeline]: Lessons/MachineLearningPipeline.md
+[Foundational Machine Learning Pipeline](https://github.com/jcatanza/good_wines_bad_wines):
 
 
 ## Assignment Submissions
@@ -101,8 +98,8 @@ To pass this course you must meet the following requirements:
 - Pass all assignments according to the associated assignment rubric
 - Pass all quizzes with a score 70% or higher
 - If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
+- Make up classwork from all absences
 
 
 ## Data Science Technical Interview Topics Covered in this course
