@@ -7,7 +7,7 @@ This project empowers you to use a new and possibly never-before-seen dataset to
 ### Instructions:
 
 1. Copy the link to the raw dataset [here](https://raw.githubusercontent.com/Make-School-Courses/DS-1.1-Data-Analysis/master/Homework/HW2/data/cardio_train.csv)
-2. Follow the comments and instructions in [this](https://colab.research.google.com/drive/1RduyfteMuVXm45jLXsmOMpNkm0N_zYEh?usp=sharing) notebook. 
+2. Create a copy of [this](https://colab.research.google.com/drive/1RduyfteMuVXm45jLXsmOMpNkm0N_zYEh?usp=sharing) notebook, and follow the comments and instructions in it
 3. Submit your copy of the notebook on Gradescope
 
 ### References
