@@ -80,7 +80,7 @@ By the end of this course, students will be able to...
 [Intro to Machine Learning Models]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
 [Foundational Machine Learning Pipeline]: https://github.com/jcatanza/good_wines_bad_wines
 [Data Visualization Challenge]: https://docs.google.com/document/d/1lniD93RLnoiCczZC9mq9wW75anovqLRWmECj9UeNqU4/edit?usp=sharing
-[Applied Probability and Statistics Challenge]: https://colab.research.google.com/drive/1RduyfteMuVXm45jLXsmOMpNkm0N_zYEh?usp=sharing
+[Applied Probability and Statistics Challenge]: Homework/HW2/README.md
 [Machine Learning Challenge]: https://docs.google.com/document/d/1mfldabM0JxuyMWAda-Z3Wc0vbv8NEkkltcil8oozJgg/edit?usp=sharing
 ## Assignment Submissions
 
