@@ -100,9 +100,9 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
 - Make up classwork from all absences
 
-- Final Grade Determination
-  The Final Grade has 500 possible points, composed of
-  - Quiz score: 100 points
+Final Grade Determination  
+  The Final Grade has 500 possible points  
+  - Quizzes: 100 points
   - Data Visualization Challenge: 100 points
   - Applied Probability and  Statistics Challenge: 100 points
   - Machine Learning Challenge: 200 points
