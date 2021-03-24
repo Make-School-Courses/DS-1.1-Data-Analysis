@@ -103,7 +103,7 @@ To pass this course you must meet the following requirements:
 ## Final Grade Determination  
 
 The Final Grade has 500 possible points
- 
+
 - Quizzes: 100 points
 - Data Visualization Challenge: 100 points
 - Applied Probability and  Statistics Challenge: 100 points
@@ -123,6 +123,23 @@ The Final Grade has 500 possible points
 - Machine Learning Model
 - Machine Learning Pipeline
 
+
+## [Academic Honesty and Integrity Policy](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#)
+
+Students are expected to practice academic integrity in all of its forms, including abstaining from plagiarism, cheating, and other forms of academic misconduct. Make School reserves the right to determine in any given instance what action constitutes a violation of academic honesty and integrity.
+Plagiarism, defined as the practice of presenting another's work or ideas as one’s own, is an act of academic dishonesty and is a serious ethical and scholarly violation.  
+
+Copying text or ideas, whether verbatim or by paraphrasing from a source without using proper citation, is not accepted at Make School. Any materials incorporated into your work, regardless of format, must be properly acknowledged using a citation style appropriate for the discipline of the course.
+
+Though plagiarism may be the most common form, other violations of scholarly integrity also constitute cheating, including:
+- Using or copying information from another student’s code or written work;
+- Copying information from another student’s test or using unauthorized materials during an examination, whether an in-class or take-home exam;
+- Buying, selling, or stealing test questions, answers, or term papers;
+- Doing work or taking tests on behalf of another student or submitting work done by another person;
+- Falsifying data or laboratory results; and
+- Submitting the same work for more than one course without explicit instructor approval.
+
+If an incident of plagiarism or cheating occurs, the instructor will investigate the incident and consult with the Dean. If the student has been found to have committed an act of academic dishonesty, an [Academic Misconduct Report](https://docs.google.com/forms/d/e/1FAIpQLSeUBN68KkiOyXoynNwBrc89zb5Tr-Z0g0aCpNqbgNzCBm1uGQ/viewform?usp=sf_link) will be filed and the student will be placed on a [Participation Improvement Plan (PIP)](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8obtx3h2p3mr). A student who believes they have been wrongly accused of plagiarism or cheating, or that the instructor’s resolution of the alleged incident is unjust, may file a [Request for Appeal of Disciplinary Action](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8obtx3h2p3mr).
 
 
 ##  Information Resources
