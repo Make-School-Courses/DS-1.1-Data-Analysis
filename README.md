@@ -54,15 +54,15 @@ By the end of this course, students will be able to...
 |  2 |  Tue, Apr 6                 | [Simple Data Manipulation]            |                                         |
 |  3 |  Thu, Apr 8                 | [Data Manipulation & Visualization]   | Quiz #1: Data Manipulation              |
 |  4 |  Tue, Apr 13                | [Applied Descriptive Statistics]      |                                         |
-|  5 |  Thu, Apr 15                | [Applied Probability to data frame]   | Due: Data Visualization Challenge       |
+|  5 |  Thu, Apr 15                | [Applied Probability to data frame]   | Due: [Data Visualization Challenge]       |
 |  6 |  Tue, Apr 20                | [PDFs, CDFs, and Normal Distributions]|                                         |
 |  7 |  Thu, Apr 22                | [Hypothesis Testing & Acceptable Error]  | Quiz #2: Statistics, Probability and Distributions                 |
 |  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error]  |                                    |
-|  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |Due: Applied Probability and Statistics Challenge   |
+|  9 |  Thu, Apr 29                | [Confidence Intervals, Outliers, and Statistical Analysis] |Due: [Applied Probability and Statistics Challenge]   |
 | 10 |  Tue, May 4                 | [Intro to Machine Learning Models] |                                            |
 | 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] | Quiz #3: Hypothesis Testing, Confidence Intervals, and Outliers|
 | 12 |  Tue, May 11                | [Lab Day]                              |                                                             |
-| 13 |  Thu, May 13                | [Final Presentations]                  | Due: Machine Learning Challenge                             |
+| 13 |  Thu, May 13                | [Final Presentations]                  | Due: [Machine Learning Challenge]                             |
 <!-- tabs:end -->
 
 [Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
@@ -79,8 +79,9 @@ By the end of this course, students will be able to...
 [Confidence Intervals, Outliers, and Statistical Analysis]: https://colab.research.google.com/drive/1uzeep-pMgz2U5Xo1TC4p_67aX57CJ1hO
 [Intro to Machine Learning Models]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
 [Foundational Machine Learning Pipeline]: https://github.com/jcatanza/good_wines_bad_wines
-
-
+[Data Visualization Challenge]: https://docs.google.com/document/d/1lniD93RLnoiCczZC9mq9wW75anovqLRWmECj9UeNqU4/edit?usp=sharing
+[Applied Probability and Statistics Challenge]: https://colab.research.google.com/drive/1RduyfteMuVXm45jLXsmOMpNkm0N_zYEh?usp=sharing
+[Machine Learning Challenge]: https://docs.google.com/document/d/1mfldabM0JxuyMWAda-Z3Wc0vbv8NEkkltcil8oozJgg/edit?usp=sharing
 ## Assignment Submissions
 
 We will be using [Gradescope](https://www.gradescope.com/courses/255291), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
@@ -94,13 +95,17 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete all assignments and quizzes (one assignment or quiz will be dropped)
-- Pass all assignments according to the associated assignment rubric
-- Pass all quizzes with a score 70% or higher
-- If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
+- Complete and pass all assignments and quizzes (score 70% or higher) according to the associated rubrics
+- If an assignment is not passing you will have up to a week after your grade is received to re-submit and bring your score up to passing
 - Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
 - Make up classwork from all absences
 
+- Final Grade Determination
+  The Final Grade has 500 possible points, composed of
+  - Quiz score: 100 points
+  - Data Visualization Challenge: 100 points
+  - Applied Probability and  Statistics Challenge: 100 points
+  - Machine Learning Challenge: 200 points
 
 ## Data Science Technical Interview Topics Covered in this course
 
