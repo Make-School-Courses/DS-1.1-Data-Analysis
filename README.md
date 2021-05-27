@@ -12,21 +12,22 @@
 In this course, students learn the foundational skills of data science, including data collection, scrubbing, analysis, and visualization with modern tools and libraries. Students gain a strong grounding in statistical concepts, utilize statistical techniques and master the science and art of data exploration and visualization to tell stories and persuade decision makers with data-driven insights.
 
 
-### Why should I take this course?
+### Why should you take this class?
 
-The skill set gained in this course will jump start your career as Data Scientist, Data Engineer or Data Analyst, if that is your goal. If you are a Software Engineer, these skills will enable you to effectively interface with Data Scientists on your team.
+The skill set gained in this course will jump start your career as a Data Scientist, Data Engineer or Data Analyst, if that is your goal. If you are a Software Engineer, these skills will enable you to effectively interface with a Data Team.
 
 
 ## Prerequisites
 
 [CS 1.2](https://github.com/Make-School-Courses/CS-1.2-How-Data-Structures-Work)
-
+[QL-1.1](https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning)
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
+**Course Delivery**: Synchronous | 7 weeks | 18 sessions
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+**Course Credits**: 3 units | 37.5 Contact Hours/Term | 92 Non-Contact Hours/Term | 129.5 Total Hours/Term
+
 
 
 ## Learning Outcomes
@@ -42,8 +43,38 @@ By the end of this course, students will be able to...
 
 ## Schedule
 
-**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
+**Course Dates:** Monday, May 31 – Friday, July 16, 2021 (7 weeks)
 
+**Class Times:** Monday, Wednesday, Friday at 9:30am–11:15am (19 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  - |  Mon, May 31         | **No Class - Memorial Day** |
+|  1 |  Wed, June 2         | [Lesson 1] |
+|  2 |  Fri, June 4         | [Lesson 2] |
+|  3 |  Mon, June 7         | [Lesson 3] |
+|  4 |  Wed, June 9         | [Lesson 4] |
+|  5 |  Fri, June 11        | [Lesson 5] |
+|  6 |  Mon, June 14        | [Lesson 6] |
+|  7 |  Wed, June 16        | [Lesson 7] |
+|  8 |  Fri, June 18        | [Lesson 8] |
+|  9 |  Mon, June 21        | [Lesson 9] |
+| 10 |  Wed, June 23        | [Lesson 10] |
+| 11 |  Fri, June 25        | [Lesson 11] |
+| 12 |  Mon, June 28        | [Lesson 12] |
+| 13 |  Wed, June 30        | [Lesson 13] |
+| 14 |  Fri, July 2         | [Lesson 14] |
+| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
+| 15 |  Wed, July 7         | [Lesson 15] |
+| 16 |  Fri, July 9         | [Lesson 16] |
+| 17 |  Mon, July 12        | [Lesson 17] |
+| 18 |  Wed, July 14        | [Lesson 18] |
+| 19 |  Fri, July 16        | Final Exam/Presentations |
+
+---
+
+=========================================================================
+OLD table below -- remove after cutting and pasting
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 <!-- tabs:start -->
 <!-- omit in toc -->
@@ -82,7 +113,33 @@ By the end of this course, students will be able to...
 [Data Visualization Challenge]: https://docs.google.com/document/d/1lniD93RLnoiCczZC9mq9wW75anovqLRWmECj9UeNqU4/edit?usp=sharing
 [Applied Probability and Statistics Challenge]: Homework/HW2/README.md
 [Machine Learning Challenge]: https://docs.google.com/document/d/1mfldabM0JxuyMWAda-Z3Wc0vbv8NEkkltcil8oozJgg/edit?usp=sharing
-## Assignment Submissions
+
+OLD table above -- remove after cutting and pasting
+=========================================================================
+
+---
+[Lesson 1]: Lessons/Lesson1.md
+[Lesson 2]: Lessons/Lesson2.md
+[Lesson 3]: Lessons/Lesson3.md
+[Lesson 4]: Lessons/Lesson4.md
+[Lesson 5]: Lessons/Lesson5.md
+[Lesson 6]: Lessons/Lesson6.md
+[Lesson 7]: Lessons/Lesson7.md
+[Lesson 8]: Lessons/Lesson8.md
+[Lesson 9]: Lessons/Lesson9.md
+[Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
+[Lesson 12]: Lessons/Lesson12.md
+[Lesson 13]: Lessons/Lesson13.md
+[Lesson 14]: Lessons/Lesson14.md
+[Lesson 15]: Lessons/Lesson14.md
+[Lesson 16]: Lessons/Lesson14.md
+[Lesson 17]: Lessons/Lesson14.md
+[Lesson 18]: Lessons/Lesson14.md
+[Lesson 19]: Lessons/Lesson14.md
+[Lesson 20]: Lessons/Lesson14.md
+
+## Class Assignments
 
 We will be using [Gradescope](https://www.gradescope.com/courses/255291), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
@@ -90,35 +147,38 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
+### Tutorials
+
+- [Do Cool Stuff Tutorial]()
+
+### Projects
+- [Do Cool Stuff Project]()
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete and pass all assignments and quizzes (score 70% or higher) according to the associated rubrics
-- If an assignment is not passing you will have up to a week after your grade is received to re-submit and bring your score up to passing
 - Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
+- Complete and pass all Assignments, Quizzes and Projects with a score of above 70%
 - Make up classwork from all absences
 
-## Final Grade Determination  
 
-The Final Grade has 500 possible points
 
-- Quizzes: 100 points
-- Data Visualization Challenge: 100 points
-- Applied Probability and  Statistics Challenge: 100 points
-- Machine Learning Challenge: 200 points
+##  Information Resources
+
+- [Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
+- [make.sc/library Data Science](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.j1vy4ijmo8w1)
 
 ## Data Science Technical Interview Topics Covered in this course
 
 - Data Exploration
 - Data Visualization
 - Data Cleaning
+- Outlier identification
 - Data Preprocessing
 - Probability distributions
 - Applied Probability and statistics
 - Hypothesis Testing
-- Outlier identification
 - Confidence intervals
 - Machine Learning Model
 - Machine Learning Pipeline
@@ -140,12 +200,6 @@ Though plagiarism may be the most common form, other violations of scholarly int
 - Submitting the same work for more than one course without explicit instructor approval.
 
 If an incident of plagiarism or cheating occurs, the instructor will investigate the incident and consult with the Dean. If the student has been found to have committed an act of academic dishonesty, an [Academic Misconduct Report](https://docs.google.com/forms/d/e/1FAIpQLSeUBN68KkiOyXoynNwBrc89zb5Tr-Z0g0aCpNqbgNzCBm1uGQ/viewform?usp=sf_link) will be filed and the student will be placed on a [Participation Improvement Plan (PIP)](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8obtx3h2p3mr). A student who believes they have been wrongly accused of plagiarism or cheating, or that the instructor’s resolution of the alleged incident is unjust, may file a [Request for Appeal of Disciplinary Action](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8obtx3h2p3mr).
-
-
-##  Information Resources
-
-- [Awesome Data Science 2021](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
-- [make.sc/library Data Science](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.j1vy4ijmo8w1)
 
 
 ## Make School Course Policies
