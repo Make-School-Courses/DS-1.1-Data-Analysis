@@ -49,13 +49,13 @@ By the end of this course, students will be able to...
 <!-- tabs:start -->
 <!-- omit in toc -->
 | Class |          Date          |                 Topics                     | Assignments and Quizzes |
-|:-----:|:----------------------:|:------------------------------------------:| |
+|:-----:|:----------------------:|:------------------------------------------:|:------------------------------------------:|
 |  - |  Mon, May 31              | **No Class - Memorial Day**                | |
 |  1 |  Wed, June 2              | [Introduction to Data Science]             | |
 |  2 |  Fri, June 4              | [Introduction to Numpy]                    | pandas and numpy challenge assigned |
 |  3 |  Mon, June 7              | [Lab]                                      | |
 |  4 |  Wed, June 9              | [Data Manipulation with Pandas]            | |
-|  5 |  Fri, June 11             | [Data Visualization]                       | pandas and numpy challenge due; data visualization challenge assigned|
+|  5 |  Fri, June 11             | [Data Visualization]                       | pandas and numpy challenge due; data visualization challenge assigned |
 |  6 |  Mon, June 14             | [Lab]                                      | |
 |  7 |  Wed, June 16             | [Applied Descriptive Statistics]           | |
 |  8 |  Fri, June 18             | [Applied Probability]                      |  data visualization challenge due; probability and statistics challenge assigned|
