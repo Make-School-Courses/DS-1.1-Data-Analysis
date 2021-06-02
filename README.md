@@ -66,10 +66,10 @@ By the end of this course, students will be able to...
 | 14 |  Fri, July 2              | [Intro to Machine Learning Models, Part 1] | [Probability Distributions and Outliers Challenge] due, [Hypothesis Testing Challenge] assigned|
 | -  |  Mon, July 5              | **No Class - Independence Day Observed**   | |
 | 15 |  Wed, July 7              | [Intro to Machine Learning Models, Part 2] | |
-| 16 |  Fri, July 9              | Lab                                        | [Hypothesis Testing Challenge] due; [Machine Learning Challenge] assigned|
+| 16 |  Fri, July 9              | Lab                                        | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
 | 17 |  Mon, July 12             | Lab                                        | |
 | 18 |  Wed, July 14             | Lab                                        | |
-| 19 |  Fri, July 16             | Machine Learning Project Presentations     | Machine Learning Challenge due|
+| 19 |  Fri, July 16             | Machine Learning Project Presentations     | [Machine Learning Challenge] due|
 <!-- tabs:end -->
 
 
@@ -111,10 +111,6 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-
-### Tutorials
-
-- []()
 
 
 ### Projects
