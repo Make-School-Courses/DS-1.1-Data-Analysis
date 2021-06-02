@@ -50,51 +50,51 @@ By the end of this course, students will be able to...
 | Class |          Date          |                 Topics                     | Assignments and Quizzes |
 |:-----:|:----------------------:|:------------------------------------------:|:------------------------------------------:|
 |  - |  Mon, May 31              | **No Class - Memorial Day**                | |
-|  1 |  Wed, June 2              | [Introduction to Numpy]                    | [Pandas and Numpy Challenge] assigned|
-|  2 |  Fri, June 4              | [Data Manipulation with Pandas, Part 1]    | |
+|  1 |  Wed, June 2              | [Introduction to Numpy]                    | |
+|  2 |  Fri, June 4              | [Data Manipulation with Pandas, Part 1]    | [Pandas and Numpy Challenge] assigned|
 |  3 |  Mon, June 7              | [Data Manipulation with Pandas, Part 2]    | |
-|  4 |  Wed, June 9              | [Data Visualization, Part 1]               | [Pandas and Numpy Challenge] due; [Data Visualization Challenge] assigned |
-|  5 |  Fri, June 11             | [Data Visualization, Part 2]               | |
+|  4 |  Wed, June 9              | [Data Visualization, Part 1]               | |
+|  5 |  Fri, June 11             | [Data Visualization, Part 2]               | [Pandas and Numpy Challenge] due; [Data Visualization Challenge] assigned |
 |  6 |  Mon, June 14             | [Probability and Statistics, Part 1]       | |
-|  7 |  Wed, June 16             | [Probability and Statistics, Part 2]       | [Data Visualization Challenge] due; [Probability and Statistics Challenge] assigned|
-|  8 |  Fri, June 18             | [Probability Distributions, Part 1]        | |
+|  7 |  Wed, June 16             | [Probability and Statistics, Part 2]       | |
+|  8 |  Fri, June 18             | [Probability Distributions, Part 1]        | [Data Visualization Challenge] due; [Probability and Statistics Challenge] assigned|
 |  9 |  Mon, June 21             | [Probability Distributions, Part 2]        | |
-| 10 |  Wed, June 23             | [Confidence Intervals and Outliers, Part 1]| [Probability and Statistics Challenge] due; [Probability Distributions and Outliers Challenge] assigned|
-| 11 |  Fri, June 25             | [Confidence Intervals and Outliers, Part 2]| |
+| 10 |  Wed, June 23             | [Confidence Intervals and Outliers, Part 1]| |
+| 11 |  Fri, June 25             | [Confidence Intervals and Outliers, Part 2]| [Probability and Statistics Challenge] due; [Probability Distributions and Outliers Challenge] assigned|
 | 12 |  Mon, June 28             | [Hypothesis Testing, Part 1]               | |
-| 13 |  Wed, June 30             | [Hypothesis Testing, Part 2]               | [Probability Distributions and Outliers Challenge] due, [Hypothesis Testing Challenge] assigned|
-| 14 |  Fri, July 2              | [Intro to Machine Learning Models, Part 1] | |
+| 13 |  Wed, June 30             | [Hypothesis Testing, Part 2]               | |
+| 14 |  Fri, July 2              | [Intro to Machine Learning Models, Part 1] | [Probability Distributions and Outliers Challenge] due, [Hypothesis Testing Challenge] assigned|
 | -  |  Mon, July 5              | **No Class - Independence Day Observed**   | |
-| 15 |  Wed, July 7              | [Intro to Machine Learning Models, Part 2] | [Hypothesis Testing Challenge] due; [Machine Learning Challenge] assigned|
-| 16 |  Fri, July 9              | Lab                                        | |
+| 15 |  Wed, July 7              | [Intro to Machine Learning Models, Part 2] | |
+| 16 |  Fri, July 9              | Lab                                        | [Hypothesis Testing Challenge] due; [Machine Learning Challenge] assigned|
 | 17 |  Mon, July 12             | Lab                                        | |
 | 18 |  Wed, July 14             | Lab                                        | |
 | 19 |  Fri, July 16             | Machine Learning Project Presentations     | Machine Learning Challenge due|
 <!-- tabs:end -->
 
 
-[Introduction to numpy]:
-[Data Manipulation with Pandas, Part 1]:
-[Data Manipulation with Pandas, Part 2]:
-[Data Visualization, Part 1]:
-[Data Visualization, Part 2]:
-[Probability and Statistics, Part 1]
-[Probability and Statistics, Part 2]
-[Probability Distributions, Part 1]:
-[Probability Distributions, Part 2]:
-[Confidence Intervals and Outliers, Part 1]:
-[Confidence Intervals and Outliers, Part 2]:
-[Hypothesis Testing, Part 1]:
-[Hypothesis Testing, Part 2]:
-[Intro to Machine Learning Models, Part 1]:
-[Intro to Machine Learning Models, Part 1]:
+[Introduction to numpy]:()
+[Data Manipulation with Pandas, Part 1]:()
+[Data Manipulation with Pandas, Part 2]:()
+[Data Visualization, Part 1]:()
+[Data Visualization, Part 2]:()
+[Probability and Statistics, Part 1]:()
+[Probability and Statistics, Part 2]:()
+[Probability Distributions, Part 1]:()
+[Probability Distributions, Part 2]:()
+[Confidence Intervals and Outliers, Part 1]:()
+[Confidence Intervals and Outliers, Part 2]:()
+[Hypothesis Testing, Part 1]:()
+[Hypothesis Testing, Part 2]:()
+[Intro to Machine Learning Models, Part 1]:()
+[Intro to Machine Learning Models, Part 1]:()
 
-[Pandas and Numpy Challenge]
-[Data Visualization Challenge]
-[Probability and Statistics Challenge]
-[Probability Distributions and Outliers Challenge]
-[Hypothesis Testing Challenge]
-[Machine Learning Challenge]
+[Pandas and Numpy Challenge](https://www.gradescope.com/courses/272468)
+[Data Visualization Challenge](https://www.gradescope.com/courses/272468)
+[Probability and Statistics Challenge](https://www.gradescope.com/courses/272468)
+[Probability Distributions and Outliers Challenge](https://www.gradescope.com/courses/272468)
+[Hypothesis Testing Challenge](https://www.gradescope.com/courses/272468)
+[Machine Learning Challenge](https://www.gradescope.com/courses/272468)
 ---
 
 =<!-- tabs:end -->
@@ -104,7 +104,7 @@ By the end of this course, students will be able to...
 
 ## Class Assignments
 
-We will be using [Gradescope](https://www.gradescope.com/courses/255291), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+We will be using [Gradescope](https://www.gradescope.com/courses/272468), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
@@ -117,8 +117,8 @@ Your Gradescope login is your Make School email, and your password can be change
 
 
 ### Projects
-- Apply pandas and Numpy
-- Visualization
+- Pandas and Numpy
+- Data Visualization
 - Probability and Statistics
 - Probability Distributions and Outliers
 - Hypothesis Testing
@@ -147,8 +147,8 @@ To pass this course you must meet the following requirements:
 - Data Cleaning
 - Outlier identification
 - Data Preprocessing
-- Probability distributions
 - Applied Probability and statistics
+- Probability distributions
 - Hypothesis Testing
 - Confidence intervals
 - Machine Learning Model
