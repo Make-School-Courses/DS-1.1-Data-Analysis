@@ -24,7 +24,7 @@ The skill set gained in this course will jump start your career as a Data Scient
 
 ## Course Specifics
 
-**Course Delivery**: Synchronous | 7 weeks | 18 sessions
+**Course Delivery**: Synchronous | 7 weeks | 19 sessions
 
 **Course Credits**: 3 units | 37.5 Contact Hours/Term | 92 Non-Contact Hours/Term | 129.5 Total Hours/Term
 
@@ -69,7 +69,7 @@ By the end of this course, students will be able to...
 | 16 |  Fri, July 9              | Lab                                        | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
 | 17 |  Mon, July 12             | Lab                                        | |
 | 18 |  Wed, July 14             | Lab                                        | |
-| 19 |  Fri, July 16             | Machine Learning Project Presentations     | [Machine Learning Challenge] due|
+| 19 |  Fri, July 16             | Machine Learning Challenge Presentations     | [Machine Learning Challenge] due|
 ---
 
 [Course Overview]:https://docs.google.com/presentation/d/1aHNRoxhpH8V3ydsjZ6YCmVj7IewqTDC2z92HGuq0umc/edit?usp=sharing
