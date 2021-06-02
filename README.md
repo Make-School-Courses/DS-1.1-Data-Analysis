@@ -54,16 +54,16 @@ By the end of this course, students will be able to...
 |  2 |  Fri, June 4              | [Data Manipulation with Pandas, Part 1]    | [Pandas and Numpy Challenge] assigned|
 |  3 |  Mon, June 7              | [Data Manipulation with Pandas, Part 2]    | |
 |  4 |  Wed, June 9              | [Data Visualization, Part 1]               | |
-|  5 |  Fri, June 11             | [Data Visualization, Part 2]               | [Pandas and Numpy Challenge] due; [Data Visualization Challenge] assigned |
+|  5 |  Fri, June 11             | [Data Visualization, Part 2]               | [Pandas and Numpy Challenge] due<br>[Data Visualization Challenge] assigned |
 |  6 |  Mon, June 14             | [Probability and Statistics, Part 1]       | |
 |  7 |  Wed, June 16             | [Probability and Statistics, Part 2]       | |
-|  8 |  Fri, June 18             | [Probability Distributions, Part 1]        | [Data Visualization Challenge] due; [Probability and Statistics Challenge] assigned|
+|  8 |  Fri, June 18             | [Probability Distributions, Part 1]        | [Data Visualization Challenge] due<br>[Probability and Statistics Challenge] assigned|
 |  9 |  Mon, June 21             | [Probability Distributions, Part 2]        | |
 | 10 |  Wed, June 23             | [Confidence Intervals and Outliers, Part 1]| |
-| 11 |  Fri, June 25             | [Confidence Intervals and Outliers, Part 2]| [Probability and Statistics Challenge] due; [Probability Distributions and Outliers Challenge] assigned|
+| 11 |  Fri, June 25             | [Confidence Intervals and Outliers, Part 2]| [Probability and Statistics Challenge] due<br>[Probability Distributions and Outliers Challenge] assigned|
 | 12 |  Mon, June 28             | [Hypothesis Testing, Part 1]               | |
 | 13 |  Wed, June 30             | [Hypothesis Testing, Part 2]               | |
-| 14 |  Fri, July 2              | [Intro to Machine Learning Models, Part 1] | [Probability Distributions and Outliers Challenge] due, [Hypothesis Testing Challenge] assigned|
+| 14 |  Fri, July 2              | [Intro to Machine Learning Models, Part 1] | [Probability Distributions and Outliers Challenge] due<br>[Hypothesis Testing Challenge] assigned|
 | -  |  Mon, July 5              | **No Class - Independence Day Observed**   | |
 | 15 |  Wed, July 7              | [Intro to Machine Learning Models, Part 2] | |
 | 16 |  Fri, July 9              | Lab                                        | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
