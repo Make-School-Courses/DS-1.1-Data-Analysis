@@ -50,7 +50,7 @@ By the end of this course, students will be able to...
 | Class |          Date          |                 Topics                     | Assignments and Quizzes |
 |:-----:|:----------------------:|:------------------------------------------:|:------------------------------------------:|
 |  - |  Mon, May 31              | **No Class - Memorial Day**                | |
-|  1 |  Wed, June 2              | [Introduction to Numpy]                    | |
+|  1 |  Wed, June 2              | [Course Overview]<br>[Introduction to Numpy]                    | |
 |  2 |  Fri, June 4              | [Data Manipulation with Pandas, Part 1]    | [Pandas and Numpy Challenge] assigned|
 |  3 |  Mon, June 7              | [Data Manipulation with Pandas, Part 2]    | |
 |  4 |  Wed, June 9              | [Data Visualization, Part 1]               | |
@@ -72,6 +72,7 @@ By the end of this course, students will be able to...
 | 19 |  Fri, July 16             | Machine Learning Project Presentations     | [Machine Learning Challenge] due|
 ---
 
+[Course Overview]:https://docs.google.com/presentation/d/1aHNRoxhpH8V3ydsjZ6YCmVj7IewqTDC2z92HGuq0umc/edit?usp=sharing
 [Introduction to numpy]:()
 [Data Manipulation with Pandas, Part 1]:()
 [Data Manipulation with Pandas, Part 2]:()
