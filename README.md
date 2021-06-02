@@ -29,7 +29,6 @@ The skill set gained in this course will jump start your career as a Data Scient
 **Course Credits**: 3 units | 37.5 Contact Hours/Term | 92 Non-Contact Hours/Term | 129.5 Total Hours/Term
 
 
-
 ## Learning Outcomes
 
 By the end of this course, students will be able to...
@@ -51,115 +50,57 @@ By the end of this course, students will be able to...
 | Class |          Date          |                 Topics                     | Assignments and Quizzes |
 |:-----:|:----------------------:|:------------------------------------------:|:------------------------------------------:|
 |  - |  Mon, May 31              | **No Class - Memorial Day**                | |
-|  1 |  Wed, June 2              | [Introduction to Data Science]             | |
-|  2 |  Fri, June 4              | [Introduction to Numpy]                    | pandas and numpy challenge assigned |
-|  3 |  Mon, June 7              | [Lab]                                      | |
-|  4 |  Wed, June 9              | [Data Manipulation with Pandas]            | |
-|  5 |  Fri, June 11             | [Data Visualization]                       | pandas and numpy challenge due; data visualization challenge assigned |
-|  6 |  Mon, June 14             | [Lab]                                      | |
-|  7 |  Wed, June 16             | [Applied Descriptive Statistics]           | |
-|  8 |  Fri, June 18             | [Applied Probability]                      |  data visualization challenge due; probability and statistics challenge assigned|
-|  9 |  Mon, June 21             | [Lab]                                      | |
-| 10 |  Wed, June 23             | [Probability Distributions]                | |
-| 11 |  Fri, June 25             | [Confidence Intervals and Outliers]        | probability and statistics challenge due; outliers challenge assigned|
-| 12 |  Mon, June 28             | [Lab]                                      | |
-| 13 |  Wed, June 30             | [Hypothesis Testing, part 1]               | |
-| 14 |  Fri, July 2              | [Hypothesis Testing, part 2]               | outliers challenge due; Hypothesis Testing Challenge assigned|
+|  1 |  Wed, June 2              | [Introduction to Numpy]                    | [Pandas and Numpy Challenge] assigned|
+|  2 |  Fri, June 4              | [Data Manipulation with Pandas, Part 1]    | |
+|  3 |  Mon, June 7              | [Data Manipulation with Pandas, Part 2]    | |
+|  4 |  Wed, June 9              | [Data Visualization, Part 1]               | [Pandas and Numpy Challenge] due; [Data Visualization Challenge] assigned |
+|  5 |  Fri, June 11             | [Data Visualization, Part 2]               | |
+|  6 |  Mon, June 14             | [Probability and Statistics, Part 1]       | |
+|  7 |  Wed, June 16             | [Probability and Statistics, Part 2]       | [Data Visualization Challenge] due; [Probability and Statistics Challenge] assigned|
+|  8 |  Fri, June 18             | [Probability Distributions, Part 1]        | |
+|  9 |  Mon, June 21             | [Probability Distributions, Part 2]        | |
+| 10 |  Wed, June 23             | [Confidence Intervals and Outliers, Part 1]| [Probability and Statistics Challenge] due; [Probability Distributions and Outliers Challenge] assigned|
+| 11 |  Fri, June 25             | [Confidence Intervals and Outliers, Part 2]| |
+| 12 |  Mon, June 28             | [Hypothesis Testing, Part 1]               | |
+| 13 |  Wed, June 30             | [Hypothesis Testing, Part 2]               | [Probability Distributions and Outliers Challenge] due, [Hypothesis Testing Challenge] assigned|
+| 14 |  Fri, July 2              | [Intro to Machine Learning Models, Part 1] | |
 | -  |  Mon, July 5              | **No Class - Independence Day Observed**   | |
-| 15 |  Wed, July 7              | [Lab]                                      | |
-| 16 |  Fri, July 9              | [Intro to Machine Learning Models, part 1] | Hypothesis Testing Challenge due; Machine Learning Challenge assigned|
-| 17 |  Mon, July 12             | [Intro to Machine Learning Models, part 2] | |
-| 18 |  Wed, July 14             | Final Project Presentations                | |
-| 19 |  Fri, July 16             | Final Project Presentations                | Machine Learning Challenge due|
+| 15 |  Wed, July 7              | [Intro to Machine Learning Models, Part 2] | [Hypothesis Testing Challenge] due; [Machine Learning Challenge] assigned|
+| 16 |  Fri, July 9              | Lab                                        | |
+| 17 |  Mon, July 12             | Lab                                        | |
+| 18 |  Wed, July 14             | Lab                                        | |
+| 19 |  Fri, July 16             | Machine Learning Project Presentations     | Machine Learning Challenge due|
 <!-- tabs:end -->
 
 
-[Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
-[Introduction to numpy]: https://colab.research.google.com/drive/1_q_QyrudzFx9vN1zz88bbj2hrUmPWm4S#scrollTo=LDlS1-z-vvvZ
-[Data Manipulation with Pandas]: https://colab.research.google.com/drive/1CoWWKCFONGr3qnozY4vzeZA1PFlPQ85-#scrollTo=SGWu6GoYeqpB
-[Data Visualization with matplotlib and seaborn]: Lessons/HowtoCombineDataFrames.md
-[Applied Descriptive Statistics]: https://colab.research.google.com/drive/1bs0PetwVS-mufkV8Z8BjMS8kuRB-62Qx#scrollTo=axOCXi2mfNpj
-[Applied Probability]: https://colab.research.google.com/drive/1M5NWA82Cu5rsh4dui4t984w2I2I3_iOL
-[PDFs, CDFs, and the Normal Distribution]: https://colab.research.google.com/drive/14nfxdp5cV-LSUqlV-1BQNlVUL9M1H_ff
-[Confidence Intervals and Outliers]: Lessons/ConfidenceIntervals.md
-[Hypothesis Testing, Parts 1 and 2]: https://colab.research.google.com/drive/1MmqDYm_M6rqBzMYjyuqwRcSVoVTwxozb
-[Time Series Data & Applications]: Lessons/TimeSeriesData.md
-[Introduction to Machine Learning Models, Parts 1 and 2]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
+[Introduction to numpy]:
+[Data Manipulation with Pandas, Part 1]:
+[Data Manipulation with Pandas, Part 2]:
+[Data Visualization, Part 1]:
+[Data Visualization, Part 2]:
+[Probability and Statistics, Part 1]
+[Probability and Statistics, Part 2]
+[Probability Distributions, Part 1]:
+[Probability Distributions, Part 2]:
+[Confidence Intervals and Outliers, Part 1]:
+[Confidence Intervals and Outliers, Part 2]:
+[Hypothesis Testing, Part 1]:
+[Hypothesis Testing, Part 2]:
+[Intro to Machine Learning Models, Part 1]:
+[Intro to Machine Learning Models, Part 1]:
 
-[Machine Learning Pipeline]: https://github.com/jcatanza/good_wines_bad_wines
-[pandas and numpy challenge]:
-[Data Visualization Challenge]: https://docs.google.com/document/d/1lniD93RLnoiCczZC9mq9wW75anovqLRWmECj9UeNqU4/edit?usp=sharing
-[Probability and Statistics Challenge]: Homework/HW2/README.md
-[Hypothesis Testing Challenge]:
-[Machine Learning Challenge]: https://docs.google.com/document/d/1mfldabM0JxuyMWAda-Z3Wc0vbv8NEkkltcil8oozJgg/edit?usp=sharing
+[Pandas and Numpy Challenge]
+[Data Visualization Challenge]
+[Probability and Statistics Challenge]
+[Probability Distributions and Outliers Challenge]
+[Hypothesis Testing Challenge]
+[Machine Learning Challenge]
 ---
 
-=========================================================================
-OLD table below -- remove after cutting and pasting
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
-<!-- tabs:start -->
-<!-- omit in toc -->
-| Class |          Date          |                 Topics                  |Assignments and Quizzes|
-|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Tue, Mar 30                |                                       |                                         |
-|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez**           |                                         |
-|  2 |  Tue, Apr 6                 |                                       |                                         |
-|  3 |  Thu, Apr 8                 | [Data Manipulation & Visualization]   |                                         |
-|  4 |  Tue, Apr 13                |                                       |                                         |
-|  5 |  Thu, Apr 15                |                                       | Due: [Data Visualization Challenge]       |
-|  6 |  Tue, Apr 20                |                                       |                                         |
-|  7 |  Thu, Apr 22                |                                       | Quiz #2: Statistics, Probability and Distributions                 |
-|  8 |  Tue, Apr 27                | [Hypothesis Testing & Acceptable Error]  |                                    |
-|  9 |  Thu, Apr 29                |  |Due: [Applied Probability and Statistics Challenge]   |
-| 10 |  Tue, May 4                 | [Intro to Machine Learning Models] |                                            |
-| 11 |  Thu, May 6                 | [Foundational Machine Learning Pipeline] | Quiz #3: Hypothesis Testing, Confidence Intervals, and Outliers|
-| 12 |  Tue, May 11                | [Lab Day]                              |                                                             |
-| 13 |  Thu, May 13                | [Final Presentations]                  | Due: [Machine Learning Challenge]                             |
-<!-- tabs:end -->
+=<!-- tabs:end -->
 
-[Introduction to Data Science]: https://docs.google.com/presentation/d/1FJ__5bW3mOFzFhxWQWlmbngvpZKzmV1p3OKnAd8rzi0/edit#slide=id.gb79d10d7fe_0_207
-[Simple Data Manipulation]: https://colab.research.google.com/drive/1_q_QyrudzFx9vN1zz88bbj2hrUmPWm4S#scrollTo=LDlS1-z-vvvZ
-[Data Manipulation & Visualization]: https://colab.research.google.com/drive/1CoWWKCFONGr3qnozY4vzeZA1PFlPQ85-#scrollTo=SGWu6GoYeqpB
-[How to Combine DataFrames]: Lessons/HowtoCombineDataFrames.md
-[Applied Descriptive Statistics]: https://colab.research.google.com/drive/1bs0PetwVS-mufkV8Z8BjMS8kuRB-62Qx#scrollTo=axOCXi2mfNpj
-[Applied Probability to data frame]: https://colab.research.google.com/drive/1M5NWA82Cu5rsh4dui4t984w2I2I3_iOL
-[PDFs, CDFs, and Normal Distributions]: https://colab.research.google.com/drive/14nfxdp5cV-LSUqlV-1BQNlVUL9M1H_ff
-[Hypothesis Testing & Acceptable Error]: https://colab.research.google.com/drive/1MmqDYm_M6rqBzMYjyuqwRcSVoVTwxozb
-[Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
-[Statistical Analysis]: Lessons/StatisticalAnalysis.md
-[Time Series Data & Applications]: Lessons/TimeSeriesData.md
-[Confidence Intervals, Outliers, and Statistical Analysis]: https://colab.research.google.com/drive/1uzeep-pMgz2U5Xo1TC4p_67aX57CJ1hO
-[Intro to Machine Learning Models]: https://colab.research.google.com/drive/16qqtORg0v_efN39gThorXoy94tPPj346
-[Foundational Machine Learning Pipeline]: https://github.com/jcatanza/good_wines_bad_wines
-[Data Visualization Challenge]: https://docs.google.com/document/d/1lniD93RLnoiCczZC9mq9wW75anovqLRWmECj9UeNqU4/edit?usp=sharing
-[Applied Probability and Statistics Challenge]: Homework/HW2/README.md
-[Hypothesis Testing Challenge]:
-[Machine Learning Challenge]: https://docs.google.com/document/d/1mfldabM0JxuyMWAda-Z3Wc0vbv8NEkkltcil8oozJgg/edit?usp=sharing
-
-OLD table above -- remove after cutting and pasting
-=========================================================================
 
 ---
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
-[Lesson 15]: Lessons/Lesson14.md
-[Lesson 16]: Lessons/Lesson14.md
-[Lesson 17]: Lessons/Lesson14.md
-[Lesson 18]: Lessons/Lesson14.md
-[Lesson 19]: Lessons/Lesson14.md
-[Lesson 20]: Lessons/Lesson14.md
 
 ## Class Assignments
 
@@ -169,19 +110,29 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
+
 ### Tutorials
 
-- [Do Cool Stuff Tutorial]()
+- []()
+
 
 ### Projects
-- [Do Cool Stuff Project]()
+- Apply pandas and Numpy
+- Visualization
+- Probability and Statistics
+- Probability Distributions and Outliers
+- Hypothesis Testing
+- Machine Learning project: You will choose a dataset to clean, investigate, and make predictions on
+- All projects will be submitted on Gradescope
+
+
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
 - Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
-- Complete and pass all Assignments, Quizzes and Projects with a score of above 70%
+- Complete and pass all Assignments and Projects with a score of above 70%
 - Make up classwork from all absences
 
 ##  Information Resources
