@@ -87,7 +87,7 @@ By the end of this course, students will be able to...
 [Hypothesis Testing, Part 1]:()
 [Hypothesis Testing, Part 2]:()
 [Intro to Machine Learning Models, Part 1]:()
-[Intro to Machine Learning Models, Part 1]:()
+[Intro to Machine Learning Models, Part 2]:()
 
 
 <!-- tabs:end -->
