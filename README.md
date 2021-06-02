@@ -90,21 +90,19 @@ By the end of this course, students will be able to...
 [Intro to Machine Learning Models, Part 1]:()
 
 
----
-
-=<!-- tabs:end -->
-
-
----
-
-## Class Assignments
-
+<!-- tabs:end -->
 [Pandas and Numpy Challenge]:https://www.gradescope.com/courses/272468
 [Data Visualization Challenge]:https://www.gradescope.com/courses/272468
 [Probability and Statistics Challenge]:https://www.gradescope.com/courses/272468
 [Probability Distributions and Outliers Challenge]:https://www.gradescope.com/courses/272468
 [Hypothesis Testing Challenge]:https://www.gradescope.com/courses/272468
 [Machine Learning Challenge]:https://www.gradescope.com/courses/272468
+
+
+---
+
+## Class Assignments
+
 
 
 We will be using [Gradescope](https://www.gradescope.com/courses/272468), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
