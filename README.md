@@ -70,8 +70,7 @@ By the end of this course, students will be able to...
 | 17 |  Mon, July 12             | Lab                                        | |
 | 18 |  Wed, July 14             | Lab                                        | |
 | 19 |  Fri, July 16             | Machine Learning Project Presentations     | [Machine Learning Challenge] due|
-<!-- tabs:end -->
-
+---
 
 [Introduction to numpy]:()
 [Data Manipulation with Pandas, Part 1]:()
@@ -88,9 +87,6 @@ By the end of this course, students will be able to...
 [Hypothesis Testing, Part 2]:()
 [Intro to Machine Learning Models, Part 1]:()
 [Intro to Machine Learning Models, Part 2]:()
-
-
-<!-- tabs:end -->
 [Pandas and Numpy Challenge]:https://www.gradescope.com/courses/272468
 [Data Visualization Challenge]:https://www.gradescope.com/courses/272468
 [Probability and Statistics Challenge]:https://www.gradescope.com/courses/272468
@@ -98,8 +94,8 @@ By the end of this course, students will be able to...
 [Hypothesis Testing Challenge]:https://www.gradescope.com/courses/272468
 [Machine Learning Challenge]:https://www.gradescope.com/courses/272468
 
+<!-- tabs:end -->
 
----
 
 ## Class Assignments
 
