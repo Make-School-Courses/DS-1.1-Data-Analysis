@@ -80,14 +80,14 @@ By the end of this course, students will be able to...
 [Data Visualization, Part 2]:https://docs.google.com/presentation/d/1HjivNbecbfjfNAewg9eHW3GMb3hDzysL_EqnYCHXv2o/edit?usp=sharing
 [Probability and Statistics, Part 1]:https://docs.google.com/presentation/d/1oBZWWpitKmAJ1q8gJ3nRDR78e8FbrHYUSk-50w75UfA/edit?usp=sharing
 [Probability and Statistics, Part 2]:https://docs.google.com/presentation/d/12QxkwMIvZBtumQ1-XfdL6AUfkKJFIg20aDmXI2_PmIU/edit?usp=sharing
-[Probability Distributions, Part 1]:
-[Probability Distributions, Part 2]:
-[Confidence Intervals and Outliers, Part 1]:
-[Confidence Intervals and Outliers, Part 2]:
-[Hypothesis Testing, Part 1]:
-[Hypothesis Testing, Part 2]:
-[Intro to Machine Learning Models, Part 1]:
-[Intro to Machine Learning Models, Part 2]:
+[Probability Distributions, Part 1]:()
+[Probability Distributions, Part 2]:()
+[Confidence Intervals and Outliers, Part 1]:()
+[Confidence Intervals and Outliers, Part 2]:()
+[Hypothesis Testing, Part 1]:()
+[Hypothesis Testing, Part 2]:()
+[Intro to Machine Learning Models, Part 1]:()
+[Intro to Machine Learning Models, Part 2]:()
 [Pandas and Numpy Challenge]:https://www.gradescope.com/courses/272468
 [Data Visualization Challenge]:https://www.gradescope.com/courses/272468
 [Probability and Statistics Challenge]:https://www.gradescope.com/courses/272468
