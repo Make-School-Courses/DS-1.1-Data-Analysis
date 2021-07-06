@@ -67,9 +67,9 @@ By the end of this course, students will be able to...
 | -  |  Mon, July 5              | **No Class - Independence Day Observed**   | |
 | 15 |  Wed, July 7              | [Hypothesis Testing, Part 1] | |
 | 16 |  Fri, July 9              | [Hypothesis Testing, Part 2] | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
-| 17 |  Mon, July 12             | [Intro to Machine Learning Models, Part 1]                                       | |
-| 18 |  Wed, July 14             | [Intro to Machine Learning Models, Part 2]                                         | |
-| 19 |  Fri, July 16             | Machine Learning Challenge Presentations     | [Machine Learning Challenge] due|
+| 17 |  Mon, July 12             | [Intro to Machine Learning, Part 1]                                       | |
+| 18 |  Wed, July 14             | [Intro to Machine Learning, Part 2]                                         | |
+| 19 |  Fri, July 16             | Lab Day     | [Machine Learning Challenge] due|
 ---
 
 [Course Overview]:https://docs.google.com/presentation/d/1aHNRoxhpH8V3ydsjZ6YCmVj7IewqTDC2z92HGuq0umc/edit?usp=sharing
@@ -89,8 +89,8 @@ By the end of this course, students will be able to...
 [Bayes' Rule]:https://docs.google.com/presentation/d/15dTLyPIGWCitzM0fv6q1pCm9_RH1VIvs0DFT4SwU-gs/edit?usp=sharing
 [Hypothesis Testing, Part 1]:https://docs.google.com/presentation/d/1oK8_IL0UEGgA2c0PC8AlcrPsaqlmpeYXQpRxR8t193Q/edit?usp=sharing
 [Hypothesis Testing, Part 2]:https://docs.google.com/presentation/d/1m5XaiHpaogMTYfEqeBd1MpRH5X7V5O-1Dk3brYAF3qI/edit?usp=sharing
-[Intro to Machine Learning Models, Part 1]:https://docs.google.com/presentation/d/18n4qOY81RzN8BiYsAytDI5BDQ75ppJcr5PAeW2I1SOA/edit?usp=sharing
-[Intro to Machine Learning Models, Part 2]:https://docs.google.com/presentation/d/1alMfnU82pkkjtrFA1Se34gIhubxsPMRqiLZkRfMs8Qk/edit?usp=sharing
+[Intro to Machine Learning, Part 1]:https://docs.google.com/presentation/d/18n4qOY81RzN8BiYsAytDI5BDQ75ppJcr5PAeW2I1SOA/edit?usp=sharing
+[Intro to Machine Learning, Part 2]:https://docs.google.com/presentation/d/1alMfnU82pkkjtrFA1Se34gIhubxsPMRqiLZkRfMs8Qk/edit?usp=sharing
 [Pandas and Numpy Challenge]:https://www.gradescope.com/courses/272468
 [Data Visualization Challenge]:https://www.gradescope.com/courses/272468
 [Probability and Statistics Challenge]:https://www.gradescope.com/courses/272468
