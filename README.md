@@ -59,16 +59,16 @@ By the end of this course, students will be able to...
 |  7 |  Wed, June 16             | [Probability and Statistics, Part 2]       | |
 |  8 |  Fri, June 18             | [Probability Distributions, Part 1]        | [Data Visualization Challenge] due<br>[Probability and Statistics Challenge] assigned|
 |  9 |  Mon, June 21             | [Probability Distributions, Part 2]        | |
-| 10 |  Wed, June 23             | [Confidence Intervals and Outliers, Part 1]| |
-| 11 |  Fri, June 25             | [Confidence Intervals and Outliers, Part 2]| [Probability and Statistics Challenge] due<br>[Probability Distributions and Outliers Challenge] assigned|
-| 12 |  Mon, June 28             | [Hypothesis Testing, Part 1]               | |
-| 13 |  Wed, June 30             | [Hypothesis Testing, Part 2]               | |
-| 14 |  Fri, July 2              | [Intro to Machine Learning Models, Part 1] | [Probability Distributions and Outliers Challenge] due<br>[Hypothesis Testing Challenge] assigned|
+| 10 |  Wed, June 23             | Counting Problems| |
+| 11 |  Fri, June 25             | [Outliers, Boxplots, and Correlation, Part 1]| [Probability and Statistics Challenge] due<br>[Probability Distributions and Outliers Challenge] assigned|
+| 12 |  Mon, June 28             |  [Outliers, Boxplots, and Correlation, Part 2]              | |
+| 13 |  Wed, June 30             | [Conditional Probability]              | |
+| 14 |  Fri, July 2              | [Bayes' Rule] | [Probability Distributions and Outliers Challenge] due<br>[Hypothesis Testing Challenge] assigned|
 | -  |  Mon, July 5              | **No Class - Independence Day Observed**   | |
-| 15 |  Wed, July 7              | [Intro to Machine Learning Models, Part 2] | |
-| 16 |  Fri, July 9              | Lab                                        | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
-| 17 |  Mon, July 12             | Lab                                        | |
-| 18 |  Wed, July 14             | Lab                                        | |
+| 15 |  Wed, July 7              | Hypothesis Testing, Part 1 | |
+| 16 |  Fri, July 9              | Hypothesis Testing, Part 2 | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
+| 17 |  Mon, July 12             | [Intro to Machine Learning Models, Part 1]                                       | |
+| 18 |  Wed, July 14             | [Intro to Machine Learning Models, Part 2]                                         | |
 | 19 |  Fri, July 16             | Machine Learning Challenge Presentations     | [Machine Learning Challenge] due|
 ---
 
@@ -82,12 +82,15 @@ By the end of this course, students will be able to...
 [Probability and Statistics, Part 2]:https://docs.google.com/presentation/d/12QxkwMIvZBtumQ1-XfdL6AUfkKJFIg20aDmXI2_PmIU/edit?usp=sharing
 [Probability Distributions, Part 1]:https://docs.google.com/presentation/d/16hmjcAbBxu6JDL72yATm1RwfXocAbRKd3_kwjTQ4aKg/edit?usp=sharing
 [Probability Distributions, Part 2]:https://docs.google.com/presentation/d/1ANQ-OoANBGiqsRBsuVTE2bjqlb8zCuqT0UCq0HnpTiw/edit?usp=sharing
-[Confidence Intervals and Outliers, Part 1]:https://docs.google.com/presentation/d/1ByKQWTHCLh-nwJ8Dy9VZvKsZEWYhaOfn01TdSmGsPxk/edit?usp=sharing
-[Confidence Intervals and Outliers, Part 2]:()
-[Hypothesis Testing, Part 1]:()
-[Hypothesis Testing, Part 2]:()
-[Intro to Machine Learning Models, Part 1]:()
-[Intro to Machine Learning Models, Part 2]:()
+[Outliers, Boxplots, and Correlation, Part 1]:https://docs.google.com/presentation/d/1ByKQWTHCLh-nwJ8Dy9VZvKsZEWYhaOfn01TdSmGsPxk/edit?usp=sharing
+[Outliers, Boxplots, and Correlation, Part 2]:https://docs.google.com/presentation/d/1ByKQWTHCLh-nwJ8Dy9VZvKsZEWYhaOfn01TdSmGsPxk/edit?usp=sharing
+[Counting Problems]:https://docs.google.com/presentation/d/1OvvCHJl04PLDYuR3-bThywmH4XqpDVpm7O76GxfRCEM/edit?usp=sharing
+[Conditional Probability]:https://docs.google.com/presentation/d/1HEtY0elfK6--WpLIyCokBIE0tT701CB0j7EGDNbrudE/edit?usp=sharing
+[Bayes' Rule]:https://docs.google.com/presentation/d/15dTLyPIGWCitzM0fv6q1pCm9_RH1VIvs0DFT4SwU-gs/edit?usp=sharing
+[Hypothesis Testing, Part 1]:
+[Hypothesis Testing, Part 2]:
+[Intro to Machine Learning Models, Part 1]:
+[Intro to Machine Learning Models, Part 2]:
 [Pandas and Numpy Challenge]:https://www.gradescope.com/courses/272468
 [Data Visualization Challenge]:https://www.gradescope.com/courses/272468
 [Probability and Statistics Challenge]:https://www.gradescope.com/courses/272468
