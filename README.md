@@ -59,14 +59,14 @@ By the end of this course, students will be able to...
 |  7 |  Wed, June 16             | [Probability and Statistics, Part 2]       | |
 |  8 |  Fri, June 18             | [Probability Distributions, Part 1]        | [Data Visualization Challenge] due<br>[Probability and Statistics Challenge] assigned|
 |  9 |  Mon, June 21             | [Probability Distributions, Part 2]        | |
-| 10 |  Wed, June 23             | Counting Problems| |
+| 10 |  Wed, June 23             | [Counting Problems]| |
 | 11 |  Fri, June 25             | [Outliers, Boxplots, and Correlation, Part 1]| [Probability and Statistics Challenge] due<br>[Probability Distributions and Outliers Challenge] assigned|
 | 12 |  Mon, June 28             |  [Outliers, Boxplots, and Correlation, Part 2]              | |
 | 13 |  Wed, June 30             | [Conditional Probability]              | |
 | 14 |  Fri, July 2              | [Bayes' Rule] | [Probability Distributions and Outliers Challenge] due<br>[Hypothesis Testing Challenge] assigned|
 | -  |  Mon, July 5              | **No Class - Independence Day Observed**   | |
-| 15 |  Wed, July 7              | Hypothesis Testing, Part 1 | |
-| 16 |  Fri, July 9              | Hypothesis Testing, Part 2 | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
+| 15 |  Wed, July 7              | [Hypothesis Testing, Part 1] | |
+| 16 |  Fri, July 9              | [Hypothesis Testing, Part 2] | [Hypothesis Testing Challenge] due <br>[Machine Learning Challenge] assigned|
 | 17 |  Mon, July 12             | [Intro to Machine Learning Models, Part 1]                                       | |
 | 18 |  Wed, July 14             | [Intro to Machine Learning Models, Part 2]                                         | |
 | 19 |  Fri, July 16             | Machine Learning Challenge Presentations     | [Machine Learning Challenge] due|
