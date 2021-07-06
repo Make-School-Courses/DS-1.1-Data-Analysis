@@ -83,7 +83,7 @@ By the end of this course, students will be able to...
 [Probability Distributions, Part 1]:https://docs.google.com/presentation/d/16hmjcAbBxu6JDL72yATm1RwfXocAbRKd3_kwjTQ4aKg/edit?usp=sharing
 [Probability Distributions, Part 2]:https://docs.google.com/presentation/d/1ANQ-OoANBGiqsRBsuVTE2bjqlb8zCuqT0UCq0HnpTiw/edit?usp=sharing
 [Outliers, Boxplots, and Correlation, Part 1]:https://docs.google.com/presentation/d/1ByKQWTHCLh-nwJ8Dy9VZvKsZEWYhaOfn01TdSmGsPxk/edit?usp=sharing
-[Outliers, Boxplots, and Correlation, Part 2]:https://docs.google.com/presentation/d/1ByKQWTHCLh-nwJ8Dy9VZvKsZEWYhaOfn01TdSmGsPxk/edit?usp=sharing
+[Outliers, Boxplots, and Correlation, Part 2]:https://docs.google.com/presentation/d/1EcC_NhtUok4NqLZJlZUGXgghqKQXrEBZ3pBQpr5eUUU/edit?usp=sharing
 [Counting Problems]:https://docs.google.com/presentation/d/1OvvCHJl04PLDYuR3-bThywmH4XqpDVpm7O76GxfRCEM/edit?usp=sharing
 [Conditional Probability]:https://docs.google.com/presentation/d/1HEtY0elfK6--WpLIyCokBIE0tT701CB0j7EGDNbrudE/edit?usp=sharing
 [Bayes' Rule]:https://docs.google.com/presentation/d/15dTLyPIGWCitzM0fv6q1pCm9_RH1VIvs0DFT4SwU-gs/edit?usp=sharing
